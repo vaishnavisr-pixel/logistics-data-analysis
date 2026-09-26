@@ -21,7 +21,7 @@ Proposed KPIs:
 
 - Transportation Cost per Order
 
-- Planned Methods
+Planned Methods:
 
 - Data cleaning and exploratory data analysis
 

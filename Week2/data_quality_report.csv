@@ -1,0 +1,14 @@
+metric,count,description
+rows_loaded,1007,Raw row count
+exact_duplicates_before,7,Exact duplicate rows removed
+missing_values_before,38,Total missing cells before cleaning
+negative_distance_before,3,Physically invalid distance values
+negative_fuel_before,3,Physically invalid fuel values
+invalid_dates_before,4,Shipping date earlier than order date
+invalid_dates_flagged_after_cleaning,4,Set to missing for source review
+iqr_order_value_outliers,54,"Flagged, not blindly deleted"
+rows_after_cleaning,1000,Rows after duplicate removal
+missing_values_after,8,Remaining missing cells
+duplicates_after,0,Remaining exact duplicates
+negative_distance_after,0,Remaining invalid distances
+negative_fuel_after,0,Remaining invalid fuel values

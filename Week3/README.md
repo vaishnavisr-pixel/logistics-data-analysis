@@ -9,7 +9,7 @@ This Week 3 project performs exploratory data analysis (EDA) and visualization o
 The dataset in this folder is a simulated demonstration dataset created for the assignment. It is not presented as a direct extract from a company's operational system.
 
 ## Files
-
+```text
 Week3/
 ├── week3_analysis.py
 ├── week3_logistics_analysis_data.csv
@@ -23,7 +23,7 @@ Week3/
 │   ├── 04_delay_by_traffic.png
 │   └── 05_correlation_matrix.png
 └── README.md
-
+```
 
 
 ## Analysis performed
@@ -92,61 +92,19 @@ Each visualization answers a different logistics question:
 
 
 
-### Visualization
+| ### Visualization | ### Business question |
 
+| :--- | :--- |
 
+| Histogram | What is the normal delivery-time pattern? |
 
-### Business question
+| Scatter plot | How does distance relate to transportation cost? |
 
+| Bar chart | How does traffic condition relate to average delivery time? |
 
+| Box plot | How variable are delivery delays under different traffic conditions? |
 
-
-
-Histogram
-
-
-
-What is the normal delivery-time pattern?
-
-
-
-
-
-Scatter plot
-
-
-
-How does distance relate to transportation cost?
-
-
-
-
-
-Bar chart
-
-
-
-How does traffic condition relate to average delivery time?
-
-
-
-
-
-Box plot
-
-
-
-How variable are delivery delays under different traffic conditions?
-
-
-
-
-
-Correlation matrix
-
-
-
-Which numeric variables move together?
+| Correlation matrix | Which numeric variables move together? |
 
 
 

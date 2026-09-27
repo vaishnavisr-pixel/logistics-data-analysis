@@ -93,17 +93,11 @@ Each visualization answers a different logistics question:
 
 
 | ### Visualization | ### Business question |
-
 | :--- | :--- |
-
 | Histogram | What is the normal delivery-time pattern? |
-
 | Scatter plot | How does distance relate to transportation cost? |
-
 | Bar chart | How does traffic condition relate to average delivery time? |
-
 | Box plot | How variable are delivery delays under different traffic conditions? |
-
 | Correlation matrix | Which numeric variables move together? |
 
 

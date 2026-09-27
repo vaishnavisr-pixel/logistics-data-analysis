@@ -1,0 +1,12 @@
+Feature,Importance
+num__Delivery_Days_Scheduled,0.844123008980651
+num__Distance_km,0.04665070422847212
+num__Fuel_Used_L,0.039302162459079845
+num__Order_Weight_kg,0.028223052289562935
+cat__Traffic_Level_Low,0.014898448947643698
+cat__Traffic_Level_High,0.009839370460194582
+cat__Shipping_Mode_same_day,0.0044176372920135135
+cat__Shipping_Mode_first_class,0.004224658872396952
+cat__Shipping_Mode_second_class,0.0038981630967649616
+cat__Shipping_Mode_standard,0.00235969524067004
+cat__Traffic_Level_Medium,0.002063098132550292

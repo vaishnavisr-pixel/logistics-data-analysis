@@ -1,0 +1,2 @@
+MAE,RMSE,R2,Best_Parameters
+0.8009591408557127,0.9932028863304219,0.788955827268373,"{'model__max_depth': 8, 'model__min_samples_leaf': 2, 'model__n_estimators': 150}"

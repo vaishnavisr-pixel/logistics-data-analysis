@@ -1,6 +1,6 @@
 Week 3 – Advanced Data Analysis and Visualization in Logistics
 
-> Objective
+#Objective
 
 This Week 3 project performs exploratory data analysis (EDA) and visualization on a simulated logistics dataset. It extends the Week 2 preprocessing work and focuses on distributions, central tendency, correlations, operational comparisons, and visual communication of logistics KPIs.
 

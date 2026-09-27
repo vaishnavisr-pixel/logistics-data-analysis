@@ -105,13 +105,13 @@ Each visualization answers a different logistics question:
 ## Run the project
 
 Install:
-
+```bash
 pip install pandas numpy matplotlib
-
+```
 Run:
-
+```bash
 python week3_analysis.py
-
+```
 The script regenerates the summary tables and chart images.
 
 ## Connection to Week 1 and Week 2

@@ -1,14 +1,14 @@
-Week 3 – Advanced Data Analysis and Visualization in Logistics
+# Week 3 – Advanced Data Analysis and Visualization in Logistics
 
-#Objective
+## Objective
 
 This Week 3 project performs exploratory data analysis (EDA) and visualization on a simulated logistics dataset. It extends the Week 2 preprocessing work and focuses on distributions, central tendency, correlations, operational comparisons, and visual communication of logistics KPIs.
 
-Important data note
+## Important data note
 
 The dataset in this folder is a simulated demonstration dataset created for the assignment. It is not presented as a direct extract from a company's operational system.
 
-Files
+## Files
 
 Week3/
 ├── week3_analysis.py
@@ -26,35 +26,35 @@ Week3/
 
 
 
-Analysis performed
+## Analysis performed
 
 
 
-1. Descriptive statistics
+### 1. Descriptive statistics
 
 Mean, median, standard deviation, quartiles, minimum and maximum values are calculated for distance, shipment weight, actual delivery time, fuel consumption, transportation cost and delay.
 
-2. Delivery-time distribution
+### 2. Delivery-time distribution
 
 A histogram is used to identify the typical delivery-time range and whether unusually long delivery durations occur.
 
-3. Transportation cost analysis
+### 3. Transportation cost analysis
 
 A scatter plot compares distance with transportation cost. This helps examine whether longer routes are associated with higher logistics expenditure.
 
-4. Traffic analysis
+### 4. Traffic analysis
 
 Average delivery time, average delay, late-delivery rate and transportation cost are compared across Low, Medium and High traffic conditions.
 
-5. Delay analysis
+### 5. Delay analysis
 
 A box plot compares delay distributions across traffic levels, making differences in spread and extreme delays easier to identify.
 
-6. Correlation analysis
+### 6. Correlation analysis
 
 A correlation matrix is calculated to examine linear relationships among operational variables.
 
-Key simulated findings
+## Key simulated findings
 
 Because this is a simulated dataset, the following findings describe the generated sample rather than real-world performance:
 
@@ -62,27 +62,27 @@ Because this is a simulated dataset, the following findings describe the generat
 
 
 
-Higher traffic levels are associated with higher average delivery times in the simulation.
+- Higher traffic levels are associated with higher average delivery times in the simulation.
 
 
 
-Transportation cost generally increases with delivery distance.
+- Transportation cost generally increases with delivery distance.
 
 
 
-Delivery delays vary more under high-traffic conditions.
+- Delivery delays vary more under high-traffic conditions.
 
 
 
-Distance and fuel usage show a positive relationship because fuel is generated from route distance.
+- Distance and fuel usage show a positive relationship because fuel is generated from route distance.
 
 
 
-Transportation cost is influenced by both distance and shipment characteristics.
+- Transportation cost is influenced by both distance and shipment characteristics.
 
 These observations are descriptive associations, not proof of causation.
 
-Why the visualizations matter
+## Why the visualizations matter
 
 Each visualization answers a different logistics question:
 
@@ -92,11 +92,11 @@ Each visualization answers a different logistics question:
 
 
 
-Visualization
+### Visualization
 
 
 
-Business question
+### Business question
 
 
 
@@ -150,7 +150,7 @@ Which numeric variables move together?
 
 
 
-Run the project
+## Run the project
 
 Install:
 
@@ -162,7 +162,7 @@ python week3_analysis.py
 
 The script regenerates the summary tables and chart images.
 
-Connection to Week 1 and Week 2
+## Connection to Week 1 and Week 2
 
 Week 1 defined logistics KPIs and the analytical roadmap.
 
@@ -170,6 +170,6 @@ Week 2 prepared and validated logistics data.
 
 Week 3 uses that prepared structure to perform EDA and visualization. The resulting insights can later support regression, clustering and optimization.
 
-Limitations
+## Limitations
 
 The sample is simulated. Correlation does not establish causation, and the results should not be interpreted as actual company performance. A production analysis should use validated operational records and include additional dimensions such as geography, carrier, warehouse, seasonality and service-level agreements.

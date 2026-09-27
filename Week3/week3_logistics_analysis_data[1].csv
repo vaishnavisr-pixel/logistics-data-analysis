@@ -1,0 +1,1201 @@
+Order_ID,Distance_km,Order_Weight_kg,Delivery_Days_Scheduled,Delivery_Days_Actual,Traffic_Level,Shipping_Mode,Fuel_Used_L,Transportation_Cost,Delivery_Status,Delay_Days
+W3-00001,15.0,4.69,2,2,Low,standard,1.49,164.36,On Time,0
+W3-00002,11.83,4.26,5,5,Medium,standard,1.04,90.99,On Time,0
+W3-00003,20.69,11.76,7,8,Low,first_class,2.3,205.7,Late,1
+W3-00004,38.31,6.66,6,8,Medium,standard,4.71,206.43,Late,2
+W3-00005,30.13,4.78,2,4,Low,standard,2.85,271.89,Late,2
+W3-00006,28.46,7.41,6,7,High,standard,3.45,155.0,Late,1
+W3-00007,17.32,2.74,5,7,Medium,second_class,2.04,140.63,Late,2
+W3-00008,29.32,4.08,7,8,Low,standard,2.56,173.65,Late,1
+W3-00009,22.41,18.18,5,7,Medium,second_class,2.11,198.61,Late,2
+W3-00010,53.52,7.26,1,3,Medium,second_class,6.89,314.14,Late,2
+W3-00011,22.86,15.69,1,2,Medium,second_class,2.22,233.86,Late,1
+W3-00012,20.05,9.2,6,5,Low,second_class,1.8,175.5,On Time,-1
+W3-00013,7.03,1.49,7,8,Medium,standard,0.76,54.24,Late,1
+W3-00014,38.99,4.67,2,4,Medium,first_class,3.66,241.68,Late,2
+W3-00015,15.54,5.55,7,7,Medium,second_class,1.58,164.44,On Time,0
+W3-00016,5.98,1.6,4,4,Low,second_class,0.57,38.8,On Time,0
+W3-00017,28.98,1.46,7,10,Medium,standard,2.88,107.97,Late,3
+W3-00018,8.57,5.76,2,2,Low,first_class,0.77,147.78,On Time,0
+W3-00019,48.61,8.69,3,3,Low,standard,5.41,311.81,On Time,0
+W3-00020,34.67,15.66,2,5,High,standard,4.17,284.27,Late,3
+W3-00021,18.31,10.69,4,5,Medium,first_class,1.67,153.52,Late,1
+W3-00022,5.7,16.58,4,5,Low,second_class,0.75,155.39,Late,1
+W3-00023,5.28,10.98,1,1,Low,first_class,0.62,162.23,On Time,0
+W3-00024,24.59,1.05,6,7,Medium,standard,2.73,166.52,Late,1
+W3-00025,14.38,4.72,2,5,High,standard,1.33,172.22,Late,3
+W3-00026,22.09,11.58,5,5,Low,same_day,2.19,175.34,On Time,0
+W3-00027,24.33,6.1,4,5,Medium,second_class,2.24,197.83,Late,1
+W3-00028,7.12,16.06,2,3,Medium,second_class,0.65,181.89,Late,1
+W3-00029,28.39,6.02,2,4,High,standard,2.49,125.89,Late,2
+W3-00030,19.4,8.61,3,4,Low,second_class,2.04,189.63,Late,1
+W3-00031,42.17,5.9,1,4,Medium,standard,4.26,222.07,Late,3
+W3-00032,16.07,7.79,6,7,Medium,standard,1.61,156.41,Late,1
+W3-00033,4.86,2.52,5,8,High,second_class,0.43,127.99,Late,3
+W3-00034,15.9,9.31,4,5,High,standard,1.6,172.55,Late,1
+W3-00035,10.96,7.4,2,3,Medium,standard,1.1,83.67,Late,1
+W3-00036,16.86,15.36,5,6,Medium,standard,2.04,269.61,Late,1
+W3-00037,8.74,4.03,4,4,High,standard,1.07,136.96,On Time,0
+W3-00038,22.19,7.1,2,3,Medium,standard,2.05,146.97,Late,1
+W3-00039,48.02,9.91,1,3,High,second_class,5.3,281.45,Late,2
+W3-00040,25.58,6.39,2,3,Medium,standard,2.51,193.74,Late,1
+W3-00041,32.62,14.96,4,4,Medium,same_day,3.26,275.04,On Time,0
+W3-00042,18.15,9.49,4,5,Low,second_class,1.59,153.22,Late,1
+W3-00043,5.39,9.29,7,7,Medium,standard,0.6,101.84,On Time,0
+W3-00044,26.94,6.74,1,2,Medium,standard,3.17,163.13,Late,1
+W3-00045,10.68,8.76,7,8,Low,standard,0.95,100.24,Late,1
+W3-00046,16.86,3.57,5,6,High,first_class,1.54,154.19,Late,1
+W3-00047,44.58,1.94,2,4,Low,standard,3.91,224.53,Late,2
+W3-00048,29.21,3.39,7,9,Low,second_class,3.75,228.44,Late,2
+W3-00049,31.52,2.31,6,7,Medium,same_day,3.27,175.96,Late,1
+W3-00050,12.89,9.84,5,6,Medium,same_day,1.63,112.49,Late,1
+W3-00051,19.91,2.3,2,2,Low,first_class,2.17,189.3,On Time,0
+W3-00052,16.37,2.71,5,8,Low,standard,1.77,94.05,Late,3
+W3-00053,14.93,8.2,7,7,Medium,same_day,1.32,92.23,On Time,0
+W3-00054,26.54,1.56,4,5,High,first_class,3.37,189.03,Late,1
+W3-00055,7.08,9.58,3,5,Low,standard,0.73,91.67,Late,2
+W3-00056,47.73,2.32,3,3,Medium,standard,6.16,256.84,On Time,0
+W3-00057,22.89,5.81,4,6,Medium,standard,2.19,188.2,Late,2
+W3-00058,55.34,20.9,3,5,Low,first_class,4.91,449.95,Late,2
+W3-00059,15.08,3.46,5,6,Medium,first_class,1.39,128.77,Late,1
+W3-00060,39.13,2.23,7,9,High,second_class,4.29,216.56,Late,2
+W3-00061,29.51,12.63,6,7,Low,standard,2.91,244.63,Late,1
+W3-00062,20.97,3.11,7,8,Low,second_class,2.23,154.1,Late,1
+W3-00063,15.4,1.09,3,4,Low,second_class,1.95,106.9,Late,1
+W3-00064,15.82,9.09,2,3,Medium,second_class,1.78,147.16,Late,1
+W3-00065,11.33,4.33,4,5,High,first_class,1.42,87.46,Late,1
+W3-00066,19.65,13.89,7,9,Medium,same_day,2.59,156.97,Late,2
+W3-00067,33.51,12.17,5,6,Low,second_class,3.15,223.98,Late,1
+W3-00068,37.18,4.78,1,2,Low,second_class,3.49,183.68,Late,1
+W3-00069,24.82,6.08,1,2,Medium,same_day,2.18,162.47,Late,1
+W3-00070,13.44,4.67,5,8,High,second_class,1.52,135.67,Late,3
+W3-00071,16.14,3.01,2,3,High,same_day,2.04,95.86,Late,1
+W3-00072,14.42,2.4,5,6,Low,standard,1.65,92.98,Late,1
+W3-00073,23.68,1.29,7,7,Low,first_class,2.8,184.56,On Time,0
+W3-00074,21.9,3.28,5,7,Medium,standard,2.76,217.89,Late,2
+W3-00075,7.71,3.91,5,7,High,standard,0.96,154.37,Late,2
+W3-00076,12.54,7.63,2,2,Low,first_class,1.3,57.51,On Time,0
+W3-00077,28.3,11.57,6,6,Medium,standard,2.95,275.9,On Time,0
+W3-00078,8.31,3.52,7,8,High,second_class,0.96,134.15,Late,1
+W3-00079,14.48,11.76,1,2,Medium,standard,1.35,60.35,Late,1
+W3-00080,17.18,3.53,2,5,Medium,standard,1.6,199.2,Late,3
+W3-00081,11.52,20.54,2,4,High,standard,1.28,195.68,Late,2
+W3-00082,20.87,1.56,6,7,Low,same_day,2.39,160.52,Late,1
+W3-00083,5.32,4.99,7,7,Low,same_day,0.54,75.68,On Time,0
+W3-00084,39.91,5.18,3,6,High,standard,3.55,207.97,Late,3
+W3-00085,55.25,4.3,5,9,High,standard,5.09,227.22,Late,4
+W3-00086,6.46,2.3,6,7,Medium,first_class,0.74,145.55,Late,1
+W3-00087,33.07,5.02,4,4,Medium,standard,4.31,143.18,On Time,0
+W3-00088,10.63,2.43,6,7,Medium,first_class,1.32,125.35,Late,1
+W3-00089,26.88,10.51,3,5,Low,second_class,2.86,188.45,Late,2
+W3-00090,59.36,15.55,4,6,Low,standard,5.73,338.97,Late,2
+W3-00091,27.96,4.75,3,5,Low,standard,3.5,146.67,Late,2
+W3-00092,40.36,5.82,5,7,Medium,same_day,4.36,210.25,Late,2
+W3-00093,9.53,7.76,5,7,Medium,second_class,1.17,84.12,Late,2
+W3-00094,11.62,5.52,2,3,High,same_day,1.12,103.23,Late,1
+W3-00095,19.45,1.85,2,3,Medium,second_class,2.44,114.67,Late,1
+W3-00096,36.97,15.51,4,6,High,first_class,3.97,230.31,Late,2
+W3-00097,37.12,6.88,4,7,High,standard,3.75,254.57,Late,3
+W3-00098,29.42,6.1,6,6,Low,standard,2.79,230.18,On Time,0
+W3-00099,14.86,9.52,3,3,Medium,standard,1.81,178.0,On Time,0
+W3-00100,26.44,4.71,7,9,Low,second_class,3.02,166.9,Late,2
+W3-00101,22.3,9.48,2,3,Medium,first_class,2.56,197.6,Late,1
+W3-00102,5.07,11.16,3,5,Low,second_class,0.56,159.38,Late,2
+W3-00103,17.36,3.95,3,4,Medium,standard,1.96,96.03,Late,1
+W3-00104,40.93,6.83,5,5,Medium,standard,3.56,267.26,On Time,0
+W3-00105,24.66,15.39,5,6,Medium,same_day,2.58,195.27,Late,1
+W3-00106,12.19,2.33,6,7,High,second_class,1.36,134.37,Late,1
+W3-00107,65.44,3.78,5,7,Low,second_class,6.4,327.63,Late,2
+W3-00108,4.84,4.32,5,5,Medium,first_class,0.48,109.8,On Time,0
+W3-00109,30.78,8.57,4,5,Medium,standard,3.27,194.33,Late,1
+W3-00110,36.66,8.05,1,2,Medium,standard,3.64,253.04,Late,1
+W3-00111,22.75,5.19,4,6,Medium,standard,1.98,139.15,Late,2
+W3-00112,7.09,5.43,4,4,High,second_class,0.84,81.99,On Time,0
+W3-00113,7.67,2.62,7,7,Low,same_day,0.68,50.83,On Time,0
+W3-00114,25.07,10.64,7,9,High,standard,3.25,198.57,Late,2
+W3-00115,34.08,8.56,3,3,Medium,second_class,3.25,252.81,On Time,0
+W3-00116,9.04,4.34,2,3,High,second_class,0.91,157.68,Late,1
+W3-00117,16.66,7.41,7,8,Medium,standard,1.51,140.52,Late,1
+W3-00118,27.95,14.32,6,7,Low,same_day,3.34,292.27,Late,1
+W3-00119,13.88,4.75,4,4,Medium,second_class,1.27,107.43,On Time,0
+W3-00120,13.69,11.18,7,8,Low,standard,1.52,139.08,Late,1
+W3-00121,21.21,4.56,6,7,Medium,second_class,2.37,134.39,Late,1
+W3-00122,23.21,7.37,5,5,Low,standard,2.43,217.52,On Time,0
+W3-00123,55.97,2.01,5,8,High,second_class,6.65,300.52,Late,3
+W3-00124,17.83,11.62,6,6,High,first_class,1.69,233.12,On Time,0
+W3-00125,17.73,1.69,5,7,High,standard,2.02,126.73,Late,2
+W3-00126,9.76,16.15,1,3,High,standard,1.03,201.89,Late,2
+W3-00127,20.98,2.62,3,5,Medium,standard,1.87,106.63,Late,2
+W3-00128,20.0,9.07,2,3,Medium,second_class,2.48,173.15,Late,1
+W3-00129,18.99,12.69,4,5,Low,second_class,2.33,159.2,Late,1
+W3-00130,14.43,4.89,7,6,Low,standard,1.37,133.0,On Time,-1
+W3-00131,26.63,5.18,2,3,Medium,second_class,2.76,177.4,Late,1
+W3-00132,41.68,4.38,5,6,Medium,same_day,4.59,269.41,Late,1
+W3-00133,14.37,4.93,3,5,Medium,second_class,1.34,183.84,Late,2
+W3-00134,24.83,1.94,7,8,Medium,first_class,2.52,211.01,Late,1
+W3-00135,44.08,1.61,3,6,High,standard,5.2,194.01,Late,3
+W3-00136,20.93,11.26,2,1,Medium,first_class,2.02,155.81,On Time,-1
+W3-00137,44.38,14.75,7,10,High,same_day,4.48,296.17,Late,3
+W3-00138,13.73,4.16,3,3,Low,second_class,1.76,92.92,On Time,0
+W3-00139,18.48,5.49,3,3,Medium,standard,2.19,206.05,On Time,0
+W3-00140,17.7,16.83,1,1,Medium,first_class,1.6,177.91,On Time,0
+W3-00141,21.5,4.8,6,7,Low,same_day,1.94,174.41,Late,1
+W3-00142,37.42,3.64,7,10,High,second_class,3.48,227.28,Late,3
+W3-00143,14.97,12.6,3,5,Medium,second_class,1.81,161.96,Late,2
+W3-00144,10.1,11.02,2,2,Low,standard,0.9,163.9,On Time,0
+W3-00145,43.36,23.48,1,1,Medium,same_day,4.07,356.95,On Time,0
+W3-00146,34.14,7.0,3,4,Medium,standard,3.57,204.59,Late,1
+W3-00147,5.44,8.75,1,1,Medium,standard,0.48,144.62,On Time,0
+W3-00148,26.31,4.28,7,9,Low,standard,3.35,139.98,Late,2
+W3-00149,48.57,3.62,4,7,Medium,standard,4.3,254.5,Late,3
+W3-00150,21.53,9.26,3,4,Medium,first_class,2.32,144.05,Late,1
+W3-00151,14.6,10.41,3,4,Medium,first_class,1.31,107.24,Late,1
+W3-00152,30.83,4.5,1,1,Low,same_day,3.96,160.37,On Time,0
+W3-00153,28.36,7.96,3,5,Medium,standard,2.72,277.23,Late,2
+W3-00154,12.42,6.58,3,3,Low,standard,1.51,107.83,On Time,0
+W3-00155,13.93,6.42,2,3,High,same_day,1.67,165.08,Late,1
+W3-00156,15.43,7.32,5,5,High,second_class,1.8,161.89,On Time,0
+W3-00157,13.73,1.27,2,4,Low,standard,1.77,82.55,Late,2
+W3-00158,4.09,9.26,5,5,High,second_class,0.37,126.88,On Time,0
+W3-00159,5.43,16.46,2,2,Medium,second_class,0.47,162.04,On Time,0
+W3-00160,17.78,18.02,5,8,Low,standard,2.03,199.38,Late,3
+W3-00161,27.88,8.18,4,5,Low,second_class,2.55,219.74,Late,1
+W3-00162,9.3,4.7,4,5,Low,same_day,0.86,117.07,Late,1
+W3-00163,28.23,12.64,3,5,Low,first_class,2.79,230.56,Late,2
+W3-00164,20.25,15.97,7,9,Medium,second_class,2.45,202.74,Late,2
+W3-00165,15.49,3.74,1,3,Medium,second_class,1.77,103.22,Late,2
+W3-00166,38.49,10.09,5,7,Medium,second_class,3.95,346.65,Late,2
+W3-00167,58.72,5.34,2,3,Low,standard,6.91,279.84,Late,1
+W3-00168,20.78,3.47,2,3,High,standard,1.82,135.86,Late,1
+W3-00169,25.54,9.92,7,9,Medium,second_class,2.27,231.22,Late,2
+W3-00170,18.39,1.27,7,7,Medium,first_class,1.7,99.85,On Time,0
+W3-00171,36.53,9.96,7,8,Low,standard,3.31,174.18,Late,1
+W3-00172,18.71,4.9,2,2,Medium,first_class,1.82,74.49,On Time,0
+W3-00173,8.27,3.37,1,1,Medium,second_class,1.02,174.74,On Time,0
+W3-00174,6.77,8.65,7,7,High,same_day,0.6,188.57,On Time,0
+W3-00175,13.08,5.08,3,5,Medium,second_class,1.19,136.9,Late,2
+W3-00176,8.63,7.91,2,3,Low,standard,0.9,137.14,Late,1
+W3-00177,11.17,27.83,2,2,Low,second_class,1.04,210.43,On Time,0
+W3-00178,13.47,2.73,2,2,Low,second_class,1.26,91.09,On Time,0
+W3-00179,12.07,5.26,2,3,Medium,standard,1.42,67.76,Late,1
+W3-00180,25.14,15.83,3,5,High,second_class,2.19,257.16,Late,2
+W3-00181,10.8,4.58,5,6,Medium,standard,0.96,58.8,Late,1
+W3-00182,8.89,3.36,3,3,Low,second_class,0.96,74.85,On Time,0
+W3-00183,6.02,4.19,7,8,Low,standard,0.54,118.4,Late,1
+W3-00184,41.67,9.84,5,8,High,standard,4.05,204.37,Late,3
+W3-00185,17.33,2.5,7,7,High,same_day,1.93,112.44,On Time,0
+W3-00186,24.01,3.72,2,2,Low,standard,2.71,201.78,On Time,0
+W3-00187,25.43,9.84,7,6,Medium,first_class,3.34,216.24,On Time,-1
+W3-00188,7.1,3.37,3,3,Medium,standard,0.8,170.66,On Time,0
+W3-00189,19.34,14.64,2,5,High,standard,2.45,183.62,Late,3
+W3-00190,18.87,10.64,1,3,Medium,standard,2.1,192.42,Late,2
+W3-00191,7.24,8.11,7,8,Low,second_class,0.85,120.95,Late,1
+W3-00192,13.16,4.05,1,3,Medium,same_day,1.55,117.91,Late,2
+W3-00193,27.03,13.65,3,3,High,same_day,2.7,224.28,On Time,0
+W3-00194,33.33,7.15,6,8,High,same_day,3.65,161.82,Late,2
+W3-00195,84.9,2.42,3,6,Medium,standard,7.76,355.09,Late,3
+W3-00196,62.96,2.14,1,3,Medium,first_class,5.56,320.76,Late,2
+W3-00197,19.55,1.53,7,6,Low,first_class,2.33,173.31,On Time,-1
+W3-00198,21.67,2.12,4,6,Medium,second_class,2.58,224.24,Late,2
+W3-00199,18.06,7.57,1,2,Low,standard,1.92,131.98,Late,1
+W3-00200,11.86,8.65,3,4,Medium,standard,1.48,106.64,Late,1
+W3-00201,30.6,3.54,6,7,Low,standard,2.68,173.07,Late,1
+W3-00202,38.05,10.73,5,5,Medium,standard,5.0,252.79,On Time,0
+W3-00203,13.07,11.77,6,6,Medium,second_class,1.23,184.42,On Time,0
+W3-00204,11.85,3.92,5,6,High,second_class,1.27,87.9,Late,1
+W3-00205,13.98,8.82,6,6,Low,standard,1.53,168.03,On Time,0
+W3-00206,3.82,7.47,1,3,Low,second_class,0.49,110.25,Late,2
+W3-00207,22.38,6.8,3,4,Medium,standard,2.15,171.26,Late,1
+W3-00208,57.05,10.44,7,10,Medium,standard,5.09,297.52,Late,3
+W3-00209,20.44,11.67,3,5,Low,standard,2.4,193.59,Late,2
+W3-00210,8.67,11.89,7,7,Low,second_class,1.12,115.8,On Time,0
+W3-00211,20.44,13.97,5,4,Medium,same_day,1.93,247.47,On Time,-1
+W3-00212,29.05,9.82,6,7,Low,second_class,2.82,131.59,Late,1
+W3-00213,16.76,5.64,5,6,High,standard,2.05,167.1,Late,1
+W3-00214,10.48,7.43,5,4,Medium,first_class,1.26,112.98,On Time,-1
+W3-00215,19.73,2.78,4,4,Low,second_class,1.86,187.65,On Time,0
+W3-00216,18.37,16.27,3,4,Medium,second_class,2.07,229.51,Late,1
+W3-00217,22.93,6.28,4,4,Low,standard,2.66,130.46,On Time,0
+W3-00218,33.63,2.54,2,4,High,second_class,4.32,178.54,Late,2
+W3-00219,11.0,23.53,1,1,Low,standard,1.07,199.51,On Time,0
+W3-00220,17.01,13.11,5,7,Medium,standard,1.6,171.78,Late,2
+W3-00221,21.2,10.95,3,5,High,standard,2.1,210.24,Late,2
+W3-00222,28.19,11.14,2,3,Low,standard,3.04,273.03,Late,1
+W3-00223,19.86,8.92,6,7,Low,first_class,1.99,201.36,Late,1
+W3-00224,33.63,7.13,6,7,Low,standard,4.07,114.3,Late,1
+W3-00225,22.63,7.92,6,7,High,first_class,2.67,185.09,Late,1
+W3-00226,6.14,6.51,4,4,Low,second_class,0.72,141.28,On Time,0
+W3-00227,45.55,7.61,3,6,Medium,standard,4.42,293.28,Late,3
+W3-00228,12.6,11.15,5,6,Low,standard,1.44,254.83,Late,1
+W3-00229,37.8,10.46,1,2,Low,second_class,3.49,226.24,Late,1
+W3-00230,44.95,3.42,6,7,Low,first_class,5.64,251.75,Late,1
+W3-00231,11.47,4.66,2,2,Medium,standard,1.52,142.45,On Time,0
+W3-00232,6.59,12.08,6,8,High,second_class,0.71,172.67,Late,2
+W3-00233,16.04,9.1,6,7,Medium,second_class,1.44,146.08,Late,1
+W3-00234,13.48,2.72,1,1,Low,same_day,1.72,48.8,On Time,0
+W3-00235,28.16,6.92,1,2,Medium,second_class,3.56,149.84,Late,1
+W3-00236,2.65,7.58,6,5,Low,standard,0.26,148.0,On Time,-1
+W3-00237,24.99,8.53,6,6,Low,standard,2.32,207.21,On Time,0
+W3-00238,12.31,5.81,1,2,Medium,second_class,1.42,136.49,Late,1
+W3-00239,6.93,3.51,7,6,Low,first_class,0.77,34.89,On Time,-1
+W3-00240,20.49,2.45,5,6,Low,second_class,1.83,105.67,Late,1
+W3-00241,12.48,16.66,4,5,Low,standard,1.63,174.38,Late,1
+W3-00242,36.11,2.74,7,9,High,standard,3.2,167.77,Late,2
+W3-00243,28.02,10.58,2,3,Low,standard,3.21,219.57,Late,1
+W3-00244,11.68,7.97,7,8,Low,standard,1.16,151.63,Late,1
+W3-00245,25.29,6.88,4,6,Medium,second_class,2.45,155.55,Late,2
+W3-00246,15.73,3.83,4,5,Medium,first_class,2.1,118.04,Late,1
+W3-00247,69.16,8.07,5,7,Low,second_class,7.11,405.55,Late,2
+W3-00248,11.47,12.14,5,4,Low,standard,1.12,90.61,On Time,-1
+W3-00249,33.57,2.11,3,4,Low,second_class,4.45,174.81,Late,1
+W3-00250,27.32,3.93,4,6,Medium,second_class,2.78,147.93,Late,2
+W3-00251,13.6,3.61,6,6,Low,first_class,1.69,81.03,On Time,0
+W3-00252,10.16,4.88,2,2,Medium,same_day,1.27,111.96,On Time,0
+W3-00253,19.23,6.6,4,4,Medium,standard,1.72,58.8,On Time,0
+W3-00254,12.42,9.25,1,3,Medium,first_class,1.34,108.05,Late,2
+W3-00255,60.57,9.39,6,7,Low,second_class,6.91,357.59,Late,1
+W3-00256,2.56,3.07,7,8,Medium,first_class,0.3,141.76,Late,1
+W3-00257,20.73,18.61,5,7,Low,second_class,2.52,252.62,Late,2
+W3-00258,16.34,8.08,1,1,Medium,first_class,2.12,82.63,On Time,0
+W3-00259,32.43,2.92,4,6,High,standard,3.14,195.31,Late,2
+W3-00260,39.56,12.93,1,3,Medium,standard,5.18,275.62,Late,2
+W3-00261,22.01,3.83,7,8,Low,first_class,2.56,214.05,Late,1
+W3-00262,17.58,8.03,4,5,Low,second_class,1.87,190.23,Late,1
+W3-00263,13.39,3.64,5,6,Low,standard,1.55,131.92,Late,1
+W3-00264,23.39,10.59,7,9,Medium,standard,2.75,231.65,Late,2
+W3-00265,41.93,8.54,1,4,Medium,standard,5.3,265.19,Late,3
+W3-00266,8.75,6.87,1,1,Low,second_class,0.78,125.36,On Time,0
+W3-00267,39.47,6.28,2,3,High,first_class,4.54,247.05,Late,1
+W3-00268,35.94,6.65,7,9,Medium,standard,4.6,216.46,Late,2
+W3-00269,15.37,5.77,2,4,Medium,second_class,1.69,105.66,Late,2
+W3-00270,13.19,1.46,2,2,Medium,second_class,1.41,153.05,On Time,0
+W3-00271,16.59,5.32,2,4,High,standard,1.58,148.84,Late,2
+W3-00272,22.86,5.06,7,9,Medium,standard,2.35,175.23,Late,2
+W3-00273,13.46,11.15,6,7,Medium,same_day,1.31,222.06,Late,1
+W3-00274,33.18,5.19,3,6,High,second_class,3.88,187.96,Late,3
+W3-00275,7.17,7.46,4,6,High,second_class,0.65,104.66,Late,2
+W3-00276,32.41,8.07,1,5,Medium,second_class,3.21,221.25,Late,4
+W3-00277,8.03,3.57,7,8,Low,second_class,0.73,37.52,Late,1
+W3-00278,24.55,25.0,5,6,Medium,second_class,2.49,299.06,Late,1
+W3-00279,50.21,6.28,2,4,Medium,same_day,6.13,288.79,Late,2
+W3-00280,4.98,11.86,1,2,Low,second_class,0.49,87.33,Late,1
+W3-00281,11.25,2.1,6,5,Low,same_day,1.24,75.22,On Time,-1
+W3-00282,28.33,4.69,4,5,High,first_class,3.46,188.66,Late,1
+W3-00283,7.95,14.74,1,2,High,standard,0.77,234.62,Late,1
+W3-00284,25.02,11.44,3,4,Low,first_class,2.87,209.5,Late,1
+W3-00285,11.07,1.9,5,6,Medium,second_class,1.07,36.88,Late,1
+W3-00286,5.38,7.85,6,5,Medium,same_day,0.6,126.76,On Time,-1
+W3-00287,52.16,7.33,1,3,Medium,second_class,5.77,292.8,Late,2
+W3-00288,17.46,2.23,2,4,High,standard,1.58,80.73,Late,2
+W3-00289,9.55,3.05,1,1,Medium,second_class,0.86,69.98,On Time,0
+W3-00290,16.44,18.02,3,5,Low,second_class,1.49,198.69,Late,2
+W3-00291,12.2,2.8,3,5,Low,second_class,1.25,121.84,Late,2
+W3-00292,11.89,6.94,7,7,Low,second_class,1.21,128.82,On Time,0
+W3-00293,45.23,8.61,4,6,High,second_class,4.61,216.49,Late,2
+W3-00294,14.76,3.97,7,7,Medium,second_class,1.38,120.58,On Time,0
+W3-00295,28.88,2.2,1,3,Low,second_class,2.77,126.53,Late,2
+W3-00296,24.38,7.1,5,7,Medium,standard,2.3,174.62,Late,2
+W3-00297,23.17,36.05,5,3,Low,same_day,2.64,300.52,On Time,-2
+W3-00298,8.72,9.06,1,2,Low,standard,0.9,134.83,Late,1
+W3-00299,9.86,6.04,7,6,Low,first_class,0.97,151.04,On Time,-1
+W3-00300,16.61,9.59,7,7,High,first_class,1.46,144.03,On Time,0
+W3-00301,36.8,3.15,3,5,Low,standard,4.2,173.94,Late,2
+W3-00302,5.01,6.82,5,5,Low,standard,0.51,131.29,On Time,0
+W3-00303,25.68,3.7,1,3,Medium,standard,3.38,154.16,Late,2
+W3-00304,27.42,9.2,4,6,High,second_class,2.96,199.95,Late,2
+W3-00305,18.3,4.74,1,2,Low,standard,1.66,126.65,Late,1
+W3-00306,21.56,8.82,1,3,Low,first_class,2.66,172.36,Late,2
+W3-00307,11.46,11.03,1,1,Medium,second_class,1.26,160.06,On Time,0
+W3-00308,29.57,18.32,7,9,High,standard,2.84,264.34,Late,2
+W3-00309,4.72,3.23,6,7,Medium,first_class,0.48,107.76,Late,1
+W3-00310,39.44,10.08,2,3,Low,second_class,5.1,266.78,Late,1
+W3-00311,12.97,4.34,7,8,High,standard,1.55,152.81,Late,1
+W3-00312,80.28,4.41,2,3,Medium,first_class,8.24,387.25,Late,1
+W3-00313,27.94,3.71,6,7,Medium,first_class,2.9,149.29,Late,1
+W3-00314,36.54,2.93,6,6,Low,second_class,4.02,155.48,On Time,0
+W3-00315,30.27,11.7,4,4,Low,standard,3.13,260.6,On Time,0
+W3-00316,21.77,2.79,4,7,Medium,second_class,2.36,156.34,Late,3
+W3-00317,44.58,8.04,2,5,Medium,second_class,4.62,200.77,Late,3
+W3-00318,31.24,9.28,5,5,Low,second_class,2.81,218.63,On Time,0
+W3-00319,44.18,12.93,1,3,Medium,second_class,5.15,293.61,Late,2
+W3-00320,19.09,6.53,7,8,Medium,standard,1.74,159.63,Late,1
+W3-00321,14.65,6.38,6,7,Medium,second_class,1.28,162.95,Late,1
+W3-00322,43.82,4.23,4,5,Low,second_class,4.68,197.0,Late,1
+W3-00323,25.1,1.99,2,4,High,first_class,2.74,81.68,Late,2
+W3-00324,53.61,12.28,2,6,Low,second_class,4.93,390.45,Late,4
+W3-00325,29.8,6.25,2,4,Medium,second_class,3.82,202.66,Late,2
+W3-00326,16.04,13.51,4,5,High,first_class,1.44,180.94,Late,1
+W3-00327,33.18,12.72,4,8,High,standard,3.15,316.59,Late,4
+W3-00328,29.52,3.6,4,6,Low,standard,2.85,189.24,Late,2
+W3-00329,25.67,4.9,5,5,Low,standard,2.31,134.2,On Time,0
+W3-00330,20.99,9.11,4,4,Medium,standard,2.08,205.16,On Time,0
+W3-00331,9.02,12.51,7,8,Low,second_class,0.97,121.18,Late,1
+W3-00332,27.74,7.69,7,9,High,second_class,2.7,204.0,Late,2
+W3-00333,8.76,2.88,2,2,Low,standard,0.84,96.07,On Time,0
+W3-00334,17.03,12.16,1,2,Medium,first_class,1.72,156.71,Late,1
+W3-00335,53.73,5.66,2,3,Medium,second_class,4.71,280.55,Late,1
+W3-00336,17.75,7.35,1,3,High,standard,2.3,111.66,Late,2
+W3-00337,37.08,16.0,6,7,Medium,first_class,3.93,292.67,Late,1
+W3-00338,15.07,5.88,6,8,Medium,second_class,1.67,170.06,Late,2
+W3-00339,18.94,7.74,5,6,Low,standard,2.15,114.71,Late,1
+W3-00340,19.67,7.85,2,3,High,first_class,2.56,160.67,Late,1
+W3-00341,32.48,2.14,3,5,Medium,standard,4.02,159.05,Late,2
+W3-00342,33.93,7.3,5,7,Medium,second_class,3.21,197.31,Late,2
+W3-00343,7.42,2.94,4,4,Low,second_class,0.83,67.51,On Time,0
+W3-00344,29.39,1.35,4,6,Medium,first_class,3.55,174.0,Late,2
+W3-00345,31.42,7.22,1,4,Medium,standard,3.14,159.88,Late,3
+W3-00346,7.79,7.37,7,8,Low,first_class,1.01,154.88,Late,1
+W3-00347,48.05,3.26,4,7,Medium,second_class,4.68,282.42,Late,3
+W3-00348,42.27,9.8,2,4,Low,second_class,3.86,282.7,Late,2
+W3-00349,18.78,3.87,6,6,Low,first_class,1.87,139.44,On Time,0
+W3-00350,13.91,4.97,2,2,Medium,standard,1.64,159.39,On Time,0
+W3-00351,7.37,10.99,4,5,Medium,standard,0.67,123.03,Late,1
+W3-00352,23.89,5.19,7,7,Medium,second_class,2.44,133.04,On Time,0
+W3-00353,35.54,5.83,3,4,High,standard,3.53,168.56,Late,1
+W3-00354,15.0,4.39,3,5,Medium,second_class,1.45,105.46,Late,2
+W3-00355,29.63,9.0,5,6,Medium,first_class,3.73,245.82,Late,1
+W3-00356,30.53,6.41,7,7,High,same_day,3.9,225.31,On Time,0
+W3-00357,18.67,1.32,4,5,Medium,first_class,2.16,167.21,Late,1
+W3-00358,13.75,11.77,3,4,High,second_class,1.42,83.98,Late,1
+W3-00359,23.28,4.27,4,8,High,second_class,2.8,127.64,Late,4
+W3-00360,32.08,4.26,7,9,Medium,second_class,3.12,220.31,Late,2
+W3-00361,13.54,7.06,7,8,Medium,second_class,1.32,99.73,Late,1
+W3-00362,9.06,5.61,5,6,Medium,standard,1.12,81.31,Late,1
+W3-00363,9.65,7.57,4,4,Medium,same_day,0.9,87.33,On Time,0
+W3-00364,17.31,5.6,6,7,Medium,standard,2.05,198.3,Late,1
+W3-00365,8.06,6.28,1,1,Medium,second_class,1.02,131.93,On Time,0
+W3-00366,12.71,8.57,7,7,Medium,standard,1.42,106.12,On Time,0
+W3-00367,6.8,5.59,4,2,Low,same_day,0.89,80.64,On Time,-2
+W3-00368,25.25,5.44,2,2,Low,first_class,2.94,209.6,On Time,0
+W3-00369,21.68,1.74,3,4,Low,standard,2.56,125.42,Late,1
+W3-00370,21.34,5.62,1,2,Medium,standard,2.53,188.92,Late,1
+W3-00371,9.81,1.25,1,3,High,second_class,1.12,86.57,Late,2
+W3-00372,12.87,2.38,2,2,Medium,standard,1.42,93.9,On Time,0
+W3-00373,9.89,7.31,7,8,Medium,first_class,1.19,114.2,Late,1
+W3-00374,13.25,4.78,2,2,Medium,second_class,1.24,136.5,On Time,0
+W3-00375,2.36,5.85,1,2,High,same_day,0.21,92.92,Late,1
+W3-00376,20.0,11.58,2,2,Medium,second_class,2.64,170.98,On Time,0
+W3-00377,30.65,4.77,1,2,Medium,standard,3.95,137.36,Late,1
+W3-00378,13.19,7.52,3,5,Medium,standard,1.45,114.57,Late,2
+W3-00379,15.25,4.3,7,8,Medium,standard,1.71,125.17,Late,1
+W3-00380,19.17,1.79,6,7,Medium,standard,1.83,91.13,Late,1
+W3-00381,10.66,9.04,6,8,High,second_class,1.2,153.26,Late,2
+W3-00382,26.29,2.79,7,7,Medium,standard,2.29,119.21,On Time,0
+W3-00383,14.67,10.21,4,6,Low,second_class,1.62,172.04,Late,2
+W3-00384,41.06,2.51,1,1,Medium,standard,4.77,180.62,On Time,0
+W3-00385,5.76,6.68,6,6,Low,standard,0.59,167.16,On Time,0
+W3-00386,38.01,5.5,5,5,Low,first_class,4.11,212.57,On Time,0
+W3-00387,29.38,6.6,6,8,High,same_day,3.4,205.83,Late,2
+W3-00388,23.36,4.51,4,4,Low,same_day,2.83,179.76,On Time,0
+W3-00389,44.5,3.29,5,7,Low,first_class,4.02,189.9,Late,2
+W3-00390,42.9,7.29,2,4,Medium,first_class,3.81,219.36,Late,2
+W3-00391,68.6,3.69,1,3,Low,second_class,7.35,290.78,Late,2
+W3-00392,14.91,6.31,7,8,Medium,first_class,1.42,107.1,Late,1
+W3-00393,7.78,2.28,4,5,Low,second_class,0.73,93.47,Late,1
+W3-00394,5.04,5.68,1,1,Low,standard,0.5,107.15,On Time,0
+W3-00395,14.68,10.46,5,6,Medium,second_class,1.69,143.06,Late,1
+W3-00396,35.34,1.35,3,4,Low,standard,3.41,168.55,Late,1
+W3-00397,8.32,7.43,6,6,Low,standard,0.74,52.06,On Time,0
+W3-00398,19.48,1.49,1,1,Medium,same_day,1.92,201.88,On Time,0
+W3-00399,8.34,4.16,4,3,High,first_class,0.88,79.89,On Time,-1
+W3-00400,33.35,3.2,7,8,Low,standard,3.83,171.42,Late,1
+W3-00401,12.22,6.27,2,5,High,second_class,1.35,181.13,Late,3
+W3-00402,39.02,7.3,4,5,Medium,first_class,3.93,241.23,Late,1
+W3-00403,35.2,3.59,3,5,Medium,standard,4.6,227.21,Late,2
+W3-00404,33.45,9.99,3,4,Medium,first_class,3.75,183.42,Late,1
+W3-00405,22.78,0.94,5,7,Low,second_class,2.68,173.5,Late,2
+W3-00406,35.81,3.82,6,6,Low,standard,3.45,208.86,On Time,0
+W3-00407,11.08,2.82,7,7,Low,first_class,1.46,134.1,On Time,0
+W3-00408,27.05,6.11,3,5,High,second_class,2.8,176.72,Late,2
+W3-00409,66.48,5.31,1,3,Medium,first_class,7.05,278.86,Late,2
+W3-00410,67.3,15.21,5,7,High,second_class,6.32,351.61,Late,2
+W3-00411,22.94,10.03,2,2,Low,standard,3.06,266.77,On Time,0
+W3-00412,10.04,1.47,5,4,Low,second_class,0.94,94.02,On Time,-1
+W3-00413,49.03,6.93,1,2,Medium,standard,4.51,264.99,Late,1
+W3-00414,14.53,4.13,5,4,Low,standard,1.56,148.93,On Time,-1
+W3-00415,51.33,8.54,3,5,Medium,first_class,5.53,353.98,Late,2
+W3-00416,24.54,3.1,4,5,Low,first_class,2.47,150.59,Late,1
+W3-00417,24.13,2.05,6,7,Medium,same_day,2.19,157.53,Late,1
+W3-00418,52.4,3.66,2,4,High,same_day,6.0,244.24,Late,2
+W3-00419,19.96,9.53,3,4,Medium,standard,2.15,172.03,Late,1
+W3-00420,23.4,3.25,7,7,Medium,standard,3.07,90.48,On Time,0
+W3-00421,17.19,7.01,2,2,Low,standard,1.68,113.14,On Time,0
+W3-00422,6.89,8.11,4,3,Low,second_class,0.84,112.83,On Time,-1
+W3-00423,33.51,1.16,3,3,Medium,same_day,3.06,211.44,On Time,0
+W3-00424,24.02,4.91,1,1,Low,standard,2.15,88.68,On Time,0
+W3-00425,36.39,6.83,1,3,Low,standard,3.57,246.28,Late,2
+W3-00426,21.41,14.52,6,6,Medium,same_day,2.78,187.16,On Time,0
+W3-00427,11.29,4.64,6,8,Medium,second_class,1.32,20.0,Late,2
+W3-00428,12.41,2.54,6,8,Medium,standard,1.21,143.17,Late,2
+W3-00429,6.43,2.29,2,4,Medium,second_class,0.75,95.41,Late,2
+W3-00430,14.43,11.04,1,1,Low,standard,1.48,181.19,On Time,0
+W3-00431,27.5,6.37,4,5,Medium,same_day,3.14,189.94,Late,1
+W3-00432,25.15,3.44,1,2,Medium,standard,3.16,172.57,Late,1
+W3-00433,15.67,6.49,3,4,High,first_class,1.77,126.32,Late,1
+W3-00434,16.51,5.08,3,3,Low,same_day,1.55,126.3,On Time,0
+W3-00435,14.56,8.58,4,6,High,second_class,1.29,151.69,Late,2
+W3-00436,15.6,15.17,3,4,Medium,same_day,1.78,187.46,Late,1
+W3-00437,34.75,13.49,3,5,High,standard,3.04,197.14,Late,2
+W3-00438,6.69,22.68,3,5,Medium,same_day,0.66,263.25,Late,2
+W3-00439,27.3,2.18,7,7,Medium,first_class,3.25,136.37,On Time,0
+W3-00440,15.34,5.65,3,4,High,first_class,1.41,123.65,Late,1
+W3-00441,11.44,9.87,7,8,Medium,second_class,1.21,192.88,Late,1
+W3-00442,18.97,3.03,2,3,Medium,second_class,2.41,128.03,Late,1
+W3-00443,18.76,13.59,2,3,Low,second_class,2.5,180.99,Late,1
+W3-00444,24.04,11.39,2,3,Low,second_class,3.14,222.41,Late,1
+W3-00445,12.16,13.24,6,6,Low,same_day,1.45,127.99,On Time,0
+W3-00446,34.13,6.98,5,7,Medium,standard,3.25,207.17,Late,2
+W3-00447,18.94,4.52,1,2,Low,standard,2.22,204.07,Late,1
+W3-00448,32.99,5.06,4,5,Low,same_day,3.74,190.69,Late,1
+W3-00449,4.05,1.63,1,1,Low,second_class,0.38,103.05,On Time,0
+W3-00450,34.98,3.8,4,5,Medium,standard,4.54,215.92,Late,1
+W3-00451,20.66,6.14,6,8,Medium,second_class,2.21,159.25,Late,2
+W3-00452,12.37,12.85,7,6,Medium,first_class,1.58,152.91,On Time,-1
+W3-00453,22.16,2.97,3,2,Low,same_day,2.39,219.49,On Time,-1
+W3-00454,12.79,6.54,1,2,Low,second_class,1.47,126.39,Late,1
+W3-00455,17.94,5.97,2,2,Medium,second_class,2.3,150.97,On Time,0
+W3-00456,21.13,2.14,4,5,Low,second_class,1.98,169.09,Late,1
+W3-00457,52.66,4.26,3,5,Medium,first_class,5.04,289.33,Late,2
+W3-00458,31.23,5.64,1,2,Medium,same_day,3.46,160.75,Late,1
+W3-00459,12.16,3.49,3,5,Medium,second_class,1.12,135.61,Late,2
+W3-00460,20.76,9.35,2,2,Medium,same_day,2.24,178.16,On Time,0
+W3-00461,50.97,8.11,7,8,Low,standard,6.34,265.34,Late,1
+W3-00462,31.96,5.97,6,8,Low,second_class,2.94,220.37,Late,2
+W3-00463,61.95,3.54,3,5,Medium,second_class,8.22,299.64,Late,2
+W3-00464,49.76,3.19,4,5,Medium,first_class,5.32,279.01,Late,1
+W3-00465,14.71,5.73,4,5,Medium,first_class,1.87,83.78,Late,1
+W3-00466,4.78,11.06,4,6,Medium,second_class,0.57,122.3,Late,2
+W3-00467,25.81,9.6,1,3,Low,standard,2.37,197.05,Late,2
+W3-00468,66.36,4.83,5,10,High,standard,8.43,404.63,Late,5
+W3-00469,31.66,15.93,3,5,High,second_class,3.05,246.95,Late,2
+W3-00470,23.56,3.73,7,8,Medium,standard,2.17,172.21,Late,1
+W3-00471,38.42,2.49,1,3,Medium,second_class,3.76,207.98,Late,2
+W3-00472,30.25,3.63,1,3,Medium,standard,3.85,144.69,Late,2
+W3-00473,20.41,6.15,3,4,Medium,second_class,1.92,176.86,Late,1
+W3-00474,13.22,6.84,4,4,Low,same_day,1.25,123.4,On Time,0
+W3-00475,12.41,9.15,5,6,High,same_day,1.11,127.51,Late,1
+W3-00476,13.89,4.53,5,5,Low,first_class,1.5,94.84,On Time,0
+W3-00477,10.64,1.4,1,2,Medium,first_class,1.12,75.15,Late,1
+W3-00478,16.61,4.92,6,8,High,standard,1.62,138.41,Late,2
+W3-00479,25.44,7.17,4,5,High,second_class,3.02,218.94,Late,1
+W3-00480,11.57,5.75,5,6,Medium,second_class,1.46,150.66,Late,1
+W3-00481,27.56,5.74,3,4,Medium,second_class,3.35,179.84,Late,1
+W3-00482,25.0,2.88,2,3,High,same_day,2.57,147.91,Late,1
+W3-00483,8.49,3.96,6,8,Low,same_day,1.08,65.57,Late,2
+W3-00484,12.22,9.7,4,5,Low,same_day,1.48,114.52,Late,1
+W3-00485,5.55,4.82,3,3,Medium,standard,0.6,84.82,On Time,0
+W3-00486,28.28,4.52,7,9,Medium,second_class,2.6,142.73,Late,2
+W3-00487,12.07,2.74,6,8,High,standard,1.18,151.25,Late,2
+W3-00488,31.8,7.47,3,4,Medium,second_class,3.41,157.84,Late,1
+W3-00489,43.61,1.64,1,3,Low,standard,5.55,216.29,Late,2
+W3-00490,9.71,6.98,3,4,Medium,second_class,1.16,105.34,Late,1
+W3-00491,16.08,7.52,7,9,High,second_class,1.46,139.38,Late,2
+W3-00492,14.18,3.59,6,7,Low,second_class,1.28,121.35,Late,1
+W3-00493,33.53,1.55,4,6,Low,standard,3.98,192.44,Late,2
+W3-00494,32.97,5.17,7,7,Medium,first_class,4.06,185.01,On Time,0
+W3-00495,6.81,6.22,6,6,Medium,standard,0.62,115.3,On Time,0
+W3-00496,24.81,10.44,4,5,High,standard,2.42,242.14,Late,1
+W3-00497,18.46,5.34,4,4,Low,first_class,2.4,181.06,On Time,0
+W3-00498,33.92,5.71,4,4,Low,same_day,3.27,214.52,On Time,0
+W3-00499,8.37,3.42,1,2,Low,standard,0.84,39.41,Late,1
+W3-00500,16.68,10.53,6,7,Medium,standard,1.47,155.94,Late,1
+W3-00501,33.29,3.49,6,8,High,second_class,4.28,145.18,Late,2
+W3-00502,60.04,7.22,7,8,Low,first_class,7.47,313.18,Late,1
+W3-00503,12.35,12.6,6,7,Medium,standard,1.41,127.2,Late,1
+W3-00504,13.09,7.84,1,2,Low,second_class,1.4,126.37,Late,1
+W3-00505,27.03,10.12,3,5,Low,second_class,2.4,144.6,Late,2
+W3-00506,23.28,4.92,6,7,Medium,first_class,2.74,148.74,Late,1
+W3-00507,18.92,18.2,6,6,Low,first_class,2.48,246.39,On Time,0
+W3-00508,12.25,2.97,2,3,Low,first_class,1.21,108.9,Late,1
+W3-00509,55.54,9.92,3,5,Low,standard,5.73,306.38,Late,2
+W3-00510,38.95,13.16,7,9,High,standard,5.0,291.91,Late,2
+W3-00511,13.75,2.48,7,7,Low,second_class,1.36,121.26,On Time,0
+W3-00512,21.12,3.11,7,9,High,standard,2.34,169.38,Late,2
+W3-00513,39.39,7.22,6,8,Low,standard,3.59,198.78,Late,2
+W3-00514,39.82,8.05,3,4,Low,standard,4.7,239.85,Late,1
+W3-00515,27.59,0.65,5,7,High,second_class,3.05,101.04,Late,2
+W3-00516,19.09,7.67,2,3,High,second_class,1.76,74.92,Late,1
+W3-00517,57.7,2.52,2,2,Medium,first_class,7.46,202.81,On Time,0
+W3-00518,14.22,2.69,5,5,Medium,second_class,1.67,111.36,On Time,0
+W3-00519,21.79,7.07,5,6,Low,second_class,2.12,199.19,Late,1
+W3-00520,14.85,13.87,1,2,Low,second_class,1.81,159.66,Late,1
+W3-00521,33.05,2.36,4,6,Medium,second_class,3.06,169.17,Late,2
+W3-00522,13.97,10.68,2,3,High,standard,1.38,170.29,Late,1
+W3-00523,33.42,3.77,3,4,Medium,second_class,3.55,208.77,Late,1
+W3-00524,41.18,2.79,4,6,Low,standard,3.63,228.37,Late,2
+W3-00525,31.76,5.27,3,4,High,second_class,4.2,167.4,Late,1
+W3-00526,8.99,2.58,7,8,Low,standard,0.95,131.75,Late,1
+W3-00527,15.84,7.02,6,8,Medium,standard,1.4,143.23,Late,2
+W3-00528,11.97,5.04,6,6,Low,same_day,1.3,165.4,On Time,0
+W3-00529,19.88,3.6,3,3,High,first_class,2.13,180.14,On Time,0
+W3-00530,8.51,5.8,5,5,Low,second_class,1.03,113.75,On Time,0
+W3-00531,10.47,0.75,5,5,Low,standard,1.04,126.83,On Time,0
+W3-00532,21.32,8.27,4,5,Low,standard,2.66,190.13,Late,1
+W3-00533,39.38,2.75,4,6,Medium,same_day,4.57,238.23,Late,2
+W3-00534,39.27,3.93,2,4,Low,second_class,3.66,219.48,Late,2
+W3-00535,16.42,4.92,6,8,High,second_class,1.96,154.72,Late,2
+W3-00536,15.82,5.88,2,3,Medium,standard,1.89,178.86,Late,1
+W3-00537,47.19,14.36,4,4,Low,same_day,6.06,279.29,On Time,0
+W3-00538,51.8,7.42,5,7,Medium,same_day,4.62,367.14,Late,2
+W3-00539,18.06,7.11,5,5,Low,first_class,1.9,158.71,On Time,0
+W3-00540,15.36,10.52,2,3,Low,standard,1.72,191.72,Late,1
+W3-00541,12.99,10.37,6,6,Medium,standard,1.71,104.11,On Time,0
+W3-00542,21.2,3.72,4,7,High,second_class,2.47,165.06,Late,3
+W3-00543,29.36,15.41,1,4,High,second_class,2.83,239.06,Late,3
+W3-00544,14.76,5.15,3,3,Medium,second_class,1.41,185.07,On Time,0
+W3-00545,35.55,3.04,3,4,Low,first_class,4.12,209.98,Late,1
+W3-00546,10.8,5.61,3,4,Medium,same_day,1.18,134.55,Late,1
+W3-00547,32.93,6.04,3,3,Medium,standard,2.93,211.28,On Time,0
+W3-00548,50.73,5.44,2,4,High,standard,4.61,271.78,Late,2
+W3-00549,27.13,2.12,1,1,Low,second_class,3.14,162.42,On Time,0
+W3-00550,12.36,4.97,6,7,Medium,standard,1.54,78.35,Late,1
+W3-00551,19.16,3.49,4,6,High,first_class,1.85,195.46,Late,2
+W3-00552,15.92,4.96,3,3,Medium,first_class,1.5,81.86,On Time,0
+W3-00553,29.81,6.96,4,5,Medium,first_class,3.06,192.22,Late,1
+W3-00554,44.75,4.47,1,2,Low,second_class,5.9,283.26,Late,1
+W3-00555,35.45,1.94,3,4,Medium,standard,3.42,164.84,Late,1
+W3-00556,26.95,7.2,7,9,Medium,first_class,3.15,175.93,Late,2
+W3-00557,15.51,5.41,4,4,High,standard,1.66,153.26,On Time,0
+W3-00558,16.04,6.25,7,9,Medium,second_class,1.69,211.61,Late,2
+W3-00559,22.97,3.24,4,4,Low,standard,2.42,212.25,On Time,0
+W3-00560,56.38,13.14,5,7,Medium,same_day,5.11,398.45,Late,2
+W3-00561,54.71,1.44,2,4,Low,second_class,4.86,226.35,Late,2
+W3-00562,75.15,5.32,5,8,High,second_class,6.82,395.63,Late,3
+W3-00563,30.81,9.71,1,3,Low,second_class,2.71,164.89,Late,2
+W3-00564,33.39,2.62,3,5,High,standard,4.06,216.56,Late,2
+W3-00565,11.97,1.27,5,7,Medium,standard,1.24,133.78,Late,2
+W3-00566,15.11,2.27,3,3,Low,standard,1.36,100.18,On Time,0
+W3-00567,7.76,3.33,4,5,Medium,standard,0.77,79.22,Late,1
+W3-00568,14.47,6.06,2,5,High,standard,1.33,170.36,Late,3
+W3-00569,21.53,4.18,3,3,Low,second_class,2.25,188.28,On Time,0
+W3-00570,19.63,2.64,6,5,Low,same_day,2.4,163.4,On Time,-1
+W3-00571,8.23,3.93,7,7,High,same_day,0.85,83.77,On Time,0
+W3-00572,7.33,5.54,1,2,Low,standard,0.9,137.33,Late,1
+W3-00573,30.33,3.21,4,6,High,same_day,2.66,208.98,Late,2
+W3-00574,10.16,8.3,7,8,High,second_class,1.02,167.46,Late,1
+W3-00575,33.21,2.67,2,4,Medium,standard,3.19,177.59,Late,2
+W3-00576,21.23,4.01,5,6,Medium,same_day,2.1,147.75,Late,1
+W3-00577,14.88,4.02,5,6,Low,same_day,1.66,94.32,Late,1
+W3-00578,17.57,16.56,1,2,Medium,second_class,1.86,201.79,Late,1
+W3-00579,32.11,17.45,7,8,Low,standard,3.26,234.0,Late,1
+W3-00580,15.67,14.76,2,1,Medium,same_day,1.44,127.35,On Time,-1
+W3-00581,28.86,3.16,6,7,High,second_class,3.83,152.03,Late,1
+W3-00582,41.74,16.78,5,7,Medium,second_class,4.13,341.21,Late,2
+W3-00583,50.3,4.55,7,9,Medium,second_class,4.52,319.11,Late,2
+W3-00584,15.47,4.4,6,7,Medium,standard,1.51,95.42,Late,1
+W3-00585,41.57,4.48,3,4,Medium,second_class,4.12,247.59,Late,1
+W3-00586,21.09,7.57,5,5,Medium,first_class,2.59,147.95,On Time,0
+W3-00587,6.2,5.67,4,5,Medium,first_class,0.54,134.25,Late,1
+W3-00588,10.25,8.06,4,5,Low,standard,1.19,149.98,Late,1
+W3-00589,8.26,1.52,1,2,Medium,second_class,0.94,53.16,Late,1
+W3-00590,10.18,5.94,5,6,Low,second_class,1.04,67.66,Late,1
+W3-00591,16.47,6.05,2,2,Low,standard,1.55,164.72,On Time,0
+W3-00592,6.87,2.12,5,6,Low,standard,0.7,131.15,Late,1
+W3-00593,36.85,5.87,4,7,Low,second_class,4.51,267.42,Late,3
+W3-00594,22.57,4.18,1,3,High,standard,2.39,151.84,Late,2
+W3-00595,46.14,5.21,2,2,Medium,same_day,4.99,227.23,On Time,0
+W3-00596,54.76,0.96,5,7,High,first_class,7.08,336.81,Late,2
+W3-00597,48.89,4.31,7,9,Medium,standard,4.64,300.98,Late,2
+W3-00598,51.15,7.5,4,6,Medium,second_class,6.16,330.17,Late,2
+W3-00599,50.62,6.55,5,7,Medium,second_class,5.0,301.88,Late,2
+W3-00600,17.82,1.15,3,4,High,standard,1.82,58.58,Late,1
+W3-00601,21.39,6.32,7,8,Low,second_class,2.79,194.57,Late,1
+W3-00602,18.85,6.87,5,7,High,second_class,1.77,125.1,Late,2
+W3-00603,38.64,5.29,5,6,Medium,second_class,4.22,219.35,Late,1
+W3-00604,29.3,14.6,7,10,Medium,second_class,3.4,250.91,Late,3
+W3-00605,22.22,4.43,5,6,Medium,first_class,2.27,182.85,Late,1
+W3-00606,9.36,5.45,1,2,Medium,first_class,1.18,99.18,Late,1
+W3-00607,18.77,2.56,2,3,Medium,second_class,2.2,147.86,Late,1
+W3-00608,32.54,3.37,4,5,Low,standard,3.01,237.97,Late,1
+W3-00609,35.84,1.39,3,3,High,second_class,4.76,170.64,On Time,0
+W3-00610,8.06,9.33,1,1,Low,second_class,0.95,119.27,On Time,0
+W3-00611,10.83,9.89,2,3,Medium,second_class,0.98,127.47,Late,1
+W3-00612,25.43,14.53,6,8,Low,second_class,2.44,218.53,Late,2
+W3-00613,24.22,4.76,1,2,Medium,first_class,2.36,144.41,Late,1
+W3-00614,25.87,4.28,7,8,Low,first_class,2.3,240.76,Late,1
+W3-00615,14.6,7.57,2,2,Low,same_day,1.92,131.14,On Time,0
+W3-00616,24.3,10.77,1,1,Medium,standard,2.13,135.61,On Time,0
+W3-00617,41.28,19.32,3,5,Medium,standard,4.09,307.44,Late,2
+W3-00618,13.26,5.87,6,7,High,standard,1.3,142.15,Late,1
+W3-00619,17.1,3.3,5,5,Low,standard,1.54,126.02,On Time,0
+W3-00620,43.77,2.37,6,8,Low,first_class,4.77,255.06,Late,2
+W3-00621,19.42,1.22,2,3,Low,same_day,2.49,182.51,Late,1
+W3-00622,46.66,1.67,3,5,Medium,standard,6.11,222.67,Late,2
+W3-00623,38.51,4.6,2,2,Medium,second_class,3.63,210.79,On Time,0
+W3-00624,18.57,1.83,4,6,Medium,standard,1.96,143.92,Late,2
+W3-00625,22.81,5.76,5,7,Medium,first_class,2.18,166.75,Late,2
+W3-00626,24.5,6.85,6,6,Low,second_class,2.15,162.26,On Time,0
+W3-00627,19.27,13.47,5,5,Low,second_class,2.44,185.7,On Time,0
+W3-00628,17.84,4.54,2,2,Low,first_class,2.1,135.06,On Time,0
+W3-00629,23.42,11.28,7,8,Low,standard,2.67,111.61,Late,1
+W3-00630,7.5,8.1,4,6,Medium,standard,0.95,123.33,Late,2
+W3-00631,6.52,1.67,7,9,Medium,same_day,0.86,62.68,Late,2
+W3-00632,12.77,4.12,6,6,Medium,first_class,1.24,87.47,On Time,0
+W3-00633,17.41,10.81,7,6,Low,same_day,2.3,178.23,On Time,-1
+W3-00634,12.82,5.09,2,2,Medium,standard,1.2,27.42,On Time,0
+W3-00635,25.55,4.41,1,2,Low,second_class,3.27,136.17,Late,1
+W3-00636,12.37,10.69,2,2,Low,same_day,1.53,227.63,On Time,0
+W3-00637,31.02,14.66,2,3,Medium,standard,2.89,246.09,Late,1
+W3-00638,6.93,9.39,6,6,Low,same_day,0.62,100.01,On Time,0
+W3-00639,13.67,3.35,6,4,Low,first_class,1.22,153.8,On Time,-2
+W3-00640,8.59,1.32,5,6,Medium,second_class,0.76,77.78,Late,1
+W3-00641,58.26,11.79,5,8,Medium,standard,5.25,378.59,Late,3
+W3-00642,6.52,4.35,3,3,Medium,same_day,0.71,62.08,On Time,0
+W3-00643,21.09,4.22,7,9,Low,second_class,2.08,101.27,Late,2
+W3-00644,27.28,13.53,5,7,Medium,standard,2.56,185.71,Late,2
+W3-00645,3.76,6.59,4,6,High,first_class,0.37,91.51,Late,2
+W3-00646,42.2,6.74,3,4,Medium,second_class,5.19,266.11,Late,1
+W3-00647,33.1,1.8,3,5,Medium,standard,4.11,136.45,Late,2
+W3-00648,8.53,5.22,1,2,Medium,first_class,1.11,56.5,Late,1
+W3-00649,13.14,1.95,2,3,High,standard,1.6,127.92,Late,1
+W3-00650,30.99,3.89,6,7,Medium,second_class,3.57,150.59,Late,1
+W3-00651,9.9,10.53,3,4,Low,standard,1.23,146.07,Late,1
+W3-00652,23.4,7.01,6,6,Medium,standard,2.63,107.49,On Time,0
+W3-00653,14.14,6.38,6,8,Medium,second_class,1.71,133.9,Late,2
+W3-00654,18.28,1.09,3,5,Medium,standard,1.87,145.04,Late,2
+W3-00655,9.4,3.73,7,8,Medium,same_day,1.12,104.93,Late,1
+W3-00656,19.11,8.86,5,6,Medium,second_class,1.78,194.2,Late,1
+W3-00657,22.97,1.61,5,5,Low,first_class,2.06,182.31,On Time,0
+W3-00658,21.85,5.74,1,2,Medium,second_class,2.33,138.61,Late,1
+W3-00659,27.5,4.84,4,5,Low,same_day,3.53,169.24,Late,1
+W3-00660,39.16,7.64,5,7,Medium,same_day,3.82,200.09,Late,2
+W3-00661,13.41,1.69,2,2,Low,standard,1.34,92.42,On Time,0
+W3-00662,19.88,3.37,2,2,High,standard,2.4,153.2,On Time,0
+W3-00663,39.64,3.29,1,3,Low,standard,3.71,163.88,Late,2
+W3-00664,12.36,2.79,2,2,Low,first_class,1.49,82.12,On Time,0
+W3-00665,10.34,14.32,5,6,Medium,standard,1.21,200.17,Late,1
+W3-00666,20.87,11.08,7,7,Medium,second_class,2.01,183.35,On Time,0
+W3-00667,16.73,4.46,1,2,Medium,second_class,1.73,159.15,Late,1
+W3-00668,7.61,2.1,1,2,Medium,standard,0.81,55.18,Late,1
+W3-00669,27.08,1.44,7,8,Medium,second_class,2.49,139.8,Late,1
+W3-00670,22.94,9.85,3,4,Medium,first_class,2.05,208.39,Late,1
+W3-00671,34.73,8.77,4,6,Low,standard,3.99,263.09,Late,2
+W3-00672,15.07,8.14,2,3,Medium,standard,1.46,114.13,Late,1
+W3-00673,21.85,12.6,1,2,Low,second_class,2.18,132.89,Late,1
+W3-00674,59.37,7.21,6,10,Medium,second_class,5.52,291.75,Late,4
+W3-00675,49.33,4.66,7,8,Low,second_class,4.73,245.03,Late,1
+W3-00676,37.94,15.34,7,9,Low,standard,4.39,337.72,Late,2
+W3-00677,40.99,10.49,3,6,Medium,standard,4.58,256.2,Late,3
+W3-00678,23.49,7.11,1,2,High,standard,2.18,175.28,Late,1
+W3-00679,12.64,11.79,4,3,Low,standard,1.59,177.46,On Time,-1
+W3-00680,50.34,2.61,7,9,Low,standard,5.77,249.28,Late,2
+W3-00681,15.24,4.69,4,5,Medium,first_class,1.78,118.32,Late,1
+W3-00682,59.42,4.12,2,3,Medium,standard,5.28,358.64,Late,1
+W3-00683,20.05,6.24,2,4,Medium,second_class,2.54,120.44,Late,2
+W3-00684,28.55,7.76,1,2,Medium,standard,2.9,184.48,Late,1
+W3-00685,35.94,4.36,6,8,High,first_class,3.44,208.64,Late,2
+W3-00686,17.84,2.25,6,7,Medium,standard,1.94,95.64,Late,1
+W3-00687,33.71,2.45,4,4,Medium,first_class,4.33,189.42,On Time,0
+W3-00688,56.47,3.53,6,8,Medium,standard,5.11,292.12,Late,2
+W3-00689,11.61,2.88,3,4,Medium,standard,1.02,103.58,Late,1
+W3-00690,28.22,5.09,7,8,Low,standard,3.58,142.6,Late,1
+W3-00691,14.5,10.82,3,5,Medium,second_class,1.29,163.74,Late,2
+W3-00692,33.69,8.16,4,6,Low,standard,4.03,199.63,Late,2
+W3-00693,30.14,2.2,1,2,Medium,standard,3.29,186.31,Late,1
+W3-00694,15.75,8.78,3,4,Medium,standard,1.48,154.69,Late,1
+W3-00695,21.43,11.24,6,5,Low,first_class,1.88,200.06,On Time,-1
+W3-00696,40.3,18.69,3,4,High,same_day,4.8,300.35,Late,1
+W3-00697,25.16,4.52,5,6,Medium,second_class,2.24,160.47,Late,1
+W3-00698,25.72,1.8,3,5,Low,standard,3.29,113.24,Late,2
+W3-00699,28.12,13.54,2,5,High,standard,2.82,208.83,Late,3
+W3-00700,10.02,8.45,2,4,Low,second_class,0.89,110.72,Late,2
+W3-00701,16.3,2.57,5,7,High,first_class,1.69,102.6,Late,2
+W3-00702,16.63,3.31,6,5,Low,same_day,1.72,162.44,On Time,-1
+W3-00703,7.81,6.43,7,8,Medium,second_class,0.84,72.19,Late,1
+W3-00704,22.05,11.92,7,9,Medium,standard,2.3,255.71,Late,2
+W3-00705,53.1,2.08,2,5,Medium,second_class,6.2,237.33,Late,3
+W3-00706,5.06,4.28,7,8,High,second_class,0.59,83.33,Late,1
+W3-00707,15.66,6.39,1,3,High,second_class,1.49,91.68,Late,2
+W3-00708,8.99,3.26,7,9,Low,second_class,1.05,116.76,Late,2
+W3-00709,12.91,8.29,7,8,Medium,first_class,1.55,130.71,Late,1
+W3-00710,16.33,7.27,2,2,Medium,standard,1.68,173.85,On Time,0
+W3-00711,33.01,4.92,3,6,High,first_class,3.42,225.06,Late,3
+W3-00712,16.24,1.98,7,8,Low,second_class,2.12,128.12,Late,1
+W3-00713,16.36,8.11,2,4,Medium,standard,1.59,96.33,Late,2
+W3-00714,30.13,6.05,2,3,Medium,standard,3.76,153.78,Late,1
+W3-00715,17.46,12.13,2,2,Medium,same_day,1.66,197.97,On Time,0
+W3-00716,19.36,2.09,5,5,Medium,same_day,2.06,184.25,On Time,0
+W3-00717,7.37,5.07,4,5,Low,standard,0.87,140.91,Late,1
+W3-00718,23.57,4.59,6,6,Low,second_class,2.66,214.6,On Time,0
+W3-00719,10.94,7.96,7,7,Low,same_day,1.14,128.68,On Time,0
+W3-00720,25.67,18.95,3,5,Medium,standard,2.81,266.88,Late,2
+W3-00721,17.93,11.04,7,8,Low,same_day,1.79,124.84,Late,1
+W3-00722,5.48,6.25,7,7,Low,second_class,0.72,72.38,On Time,0
+W3-00723,12.63,3.64,4,5,Medium,second_class,1.37,20.0,Late,1
+W3-00724,44.93,5.58,6,7,Medium,first_class,5.09,293.15,Late,1
+W3-00725,49.26,6.12,5,6,High,standard,4.71,344.43,Late,1
+W3-00726,18.66,6.58,2,3,Low,standard,1.86,111.76,Late,1
+W3-00727,53.09,15.19,5,5,Medium,same_day,6.69,303.27,On Time,0
+W3-00728,10.43,11.29,4,3,Low,first_class,1.33,87.13,On Time,-1
+W3-00729,8.85,3.54,4,4,Low,first_class,0.9,138.91,On Time,0
+W3-00730,27.51,7.08,7,8,Low,same_day,2.45,207.58,Late,1
+W3-00731,29.76,14.25,4,5,Low,first_class,2.91,252.66,Late,1
+W3-00732,20.57,13.55,5,7,Medium,standard,2.02,243.52,Late,2
+W3-00733,16.39,12.17,4,5,Low,standard,1.74,178.45,Late,1
+W3-00734,14.48,7.82,3,5,Medium,second_class,1.73,173.32,Late,2
+W3-00735,6.79,15.57,2,2,Medium,standard,0.85,127.93,On Time,0
+W3-00736,34.51,6.64,3,4,Medium,first_class,4.18,200.42,Late,1
+W3-00737,38.01,10.99,5,7,Medium,second_class,3.32,288.55,Late,2
+W3-00738,16.53,11.84,4,4,Medium,second_class,1.56,167.33,On Time,0
+W3-00739,8.53,3.99,5,6,High,standard,1.09,133.46,Late,1
+W3-00740,21.26,9.52,3,5,Medium,first_class,2.46,191.21,Late,2
+W3-00741,6.16,3.47,7,8,High,standard,0.59,81.64,Late,1
+W3-00742,8.66,2.27,3,3,Medium,first_class,1.0,22.46,On Time,0
+W3-00743,44.32,1.87,5,7,Low,standard,5.41,221.07,Late,2
+W3-00744,30.7,0.89,4,5,Medium,standard,2.75,121.28,Late,1
+W3-00745,16.6,12.8,5,5,Medium,second_class,1.69,187.31,On Time,0
+W3-00746,10.99,5.63,6,8,High,standard,1.45,81.65,Late,2
+W3-00747,18.37,19.84,6,7,Medium,second_class,2.31,242.63,Late,1
+W3-00748,17.74,5.53,7,7,Low,second_class,1.93,114.91,On Time,0
+W3-00749,16.76,8.58,5,6,Low,second_class,1.64,183.37,Late,1
+W3-00750,8.36,3.88,5,5,Medium,same_day,0.78,43.35,On Time,0
+W3-00751,18.18,2.79,7,9,Medium,second_class,2.13,157.27,Late,2
+W3-00752,16.42,8.39,1,2,Medium,standard,1.52,187.95,Late,1
+W3-00753,17.06,4.86,1,2,Medium,second_class,2.06,195.12,Late,1
+W3-00754,13.56,9.86,3,3,Medium,second_class,1.68,166.63,On Time,0
+W3-00755,4.29,2.58,3,3,High,standard,0.4,40.21,On Time,0
+W3-00756,31.04,5.74,4,5,Low,second_class,3.63,158.67,Late,1
+W3-00757,25.47,5.09,6,6,Low,standard,2.6,186.97,On Time,0
+W3-00758,10.64,5.21,1,2,Low,second_class,1.02,108.05,Late,1
+W3-00759,69.34,9.87,1,2,Low,standard,8.3,374.59,Late,1
+W3-00760,6.48,8.28,3,4,Medium,same_day,0.68,126.52,Late,1
+W3-00761,8.74,7.07,6,7,Medium,first_class,0.76,118.46,Late,1
+W3-00762,14.25,3.92,5,5,Low,second_class,1.88,83.36,On Time,0
+W3-00763,32.0,9.51,2,4,Low,second_class,3.83,202.38,Late,2
+W3-00764,5.07,6.33,7,9,Medium,first_class,0.45,104.45,Late,2
+W3-00765,40.78,1.14,6,8,High,first_class,3.99,152.41,Late,2
+W3-00766,59.53,7.55,2,4,Medium,second_class,5.8,287.61,Late,2
+W3-00767,34.38,1.8,1,4,Medium,second_class,3.78,172.62,Late,3
+W3-00768,82.8,3.86,7,11,High,second_class,9.8,304.16,Late,4
+W3-00769,23.8,5.24,2,3,Low,standard,2.95,107.25,Late,1
+W3-00770,19.79,19.15,2,3,Low,second_class,2.26,237.97,Late,1
+W3-00771,8.69,7.04,1,2,High,second_class,0.87,157.25,Late,1
+W3-00772,24.38,3.51,7,7,Medium,standard,2.14,155.2,On Time,0
+W3-00773,46.97,8.62,5,7,Low,first_class,4.47,238.54,Late,2
+W3-00774,28.04,7.52,2,3,High,same_day,2.75,201.82,Late,1
+W3-00775,24.2,6.39,3,4,Low,standard,3.18,208.54,Late,1
+W3-00776,13.82,4.48,5,6,High,second_class,1.22,134.42,Late,1
+W3-00777,42.06,2.62,5,6,Medium,standard,4.01,202.81,Late,1
+W3-00778,26.86,5.99,1,2,Low,standard,2.89,150.14,Late,1
+W3-00779,18.55,4.48,1,4,High,standard,2.11,100.81,Late,3
+W3-00780,6.65,3.27,2,2,Low,second_class,0.81,108.71,On Time,0
+W3-00781,9.53,10.47,1,1,Low,standard,0.91,116.26,On Time,0
+W3-00782,18.79,14.5,3,6,High,second_class,2.37,217.6,Late,3
+W3-00783,55.97,8.23,7,9,Low,second_class,5.71,360.72,Late,2
+W3-00784,7.24,10.86,1,3,Medium,standard,0.77,129.96,Late,2
+W3-00785,11.35,6.44,1,2,Medium,second_class,1.24,76.12,Late,1
+W3-00786,27.16,4.1,1,3,Medium,first_class,3.27,176.67,Late,2
+W3-00787,33.72,6.68,4,5,Low,second_class,3.38,248.54,Late,1
+W3-00788,52.97,13.23,6,6,Medium,standard,4.66,289.94,On Time,0
+W3-00789,23.05,2.74,3,3,Low,same_day,2.53,169.66,On Time,0
+W3-00790,28.93,5.61,6,6,Medium,first_class,2.69,190.48,On Time,0
+W3-00791,21.86,7.18,6,8,High,same_day,2.07,218.59,Late,2
+W3-00792,22.0,0.86,6,7,High,same_day,2.51,135.58,Late,1
+W3-00793,14.18,3.69,6,7,Medium,standard,1.43,120.43,Late,1
+W3-00794,39.93,17.19,6,6,Medium,same_day,4.22,299.33,On Time,0
+W3-00795,64.5,3.79,1,4,Medium,standard,5.84,332.41,Late,3
+W3-00796,26.29,6.25,3,3,Medium,standard,3.48,202.89,On Time,0
+W3-00797,18.21,1.31,4,5,Low,first_class,1.66,61.27,Late,1
+W3-00798,13.46,4.95,3,4,Low,first_class,1.72,141.21,Late,1
+W3-00799,11.17,4.49,3,4,Low,standard,1.23,139.77,Late,1
+W3-00800,38.66,4.29,4,6,Medium,same_day,3.53,186.7,Late,2
+W3-00801,17.81,5.18,2,2,Low,first_class,1.93,90.16,On Time,0
+W3-00802,5.6,4.6,1,2,Medium,standard,0.58,100.18,Late,1
+W3-00803,25.43,4.28,2,3,Medium,second_class,2.66,210.87,Late,1
+W3-00804,18.95,2.84,2,2,Medium,same_day,2.23,173.01,On Time,0
+W3-00805,29.53,7.48,4,7,High,second_class,2.92,225.2,Late,3
+W3-00806,7.23,1.79,1,2,Low,standard,0.87,81.14,Late,1
+W3-00807,14.01,12.44,6,8,Medium,standard,1.55,156.31,Late,2
+W3-00808,33.34,5.04,7,9,High,standard,3.74,182.4,Late,2
+W3-00809,12.05,16.54,1,1,Low,standard,1.13,172.99,On Time,0
+W3-00810,16.76,6.86,7,8,Medium,standard,1.53,127.58,Late,1
+W3-00811,52.98,2.9,4,6,Medium,second_class,6.67,303.82,Late,2
+W3-00812,24.99,10.75,3,5,High,second_class,2.55,150.3,Late,2
+W3-00813,34.68,3.67,7,9,High,same_day,3.7,189.78,Late,2
+W3-00814,31.82,11.12,3,5,Medium,first_class,3.64,281.49,Late,2
+W3-00815,30.21,10.51,6,7,High,second_class,2.72,212.79,Late,1
+W3-00816,65.82,2.22,5,6,Low,standard,6.67,333.61,Late,1
+W3-00817,17.82,7.41,2,4,Medium,standard,1.83,160.25,Late,2
+W3-00818,6.83,2.62,3,4,Medium,standard,0.6,128.69,Late,1
+W3-00819,21.72,5.16,4,6,Medium,second_class,2.16,209.75,Late,2
+W3-00820,12.89,9.09,5,6,High,standard,1.15,145.84,Late,1
+W3-00821,8.78,22.36,4,7,Low,standard,0.88,193.07,Late,3
+W3-00822,29.77,6.86,7,8,Low,standard,2.8,262.56,Late,1
+W3-00823,11.17,3.55,7,6,Low,standard,1.3,90.98,On Time,-1
+W3-00824,3.46,6.77,6,6,Low,second_class,0.4,28.42,On Time,0
+W3-00825,21.75,7.59,7,8,High,second_class,2.59,191.79,Late,1
+W3-00826,18.38,9.7,2,3,Medium,standard,1.76,174.97,Late,1
+W3-00827,15.36,6.85,1,1,Medium,standard,1.59,138.19,On Time,0
+W3-00828,4.73,8.39,2,3,Medium,first_class,0.42,171.99,Late,1
+W3-00829,24.3,15.13,3,5,High,standard,2.84,208.8,Late,2
+W3-00830,42.01,4.28,4,6,High,same_day,3.91,237.28,Late,2
+W3-00831,8.19,4.46,1,2,Medium,first_class,0.74,131.61,Late,1
+W3-00832,22.39,5.28,6,8,High,second_class,2.16,85.63,Late,2
+W3-00833,14.44,3.31,7,9,Medium,second_class,1.81,130.76,Late,2
+W3-00834,10.79,6.15,1,2,Medium,first_class,1.39,102.81,Late,1
+W3-00835,23.2,2.68,1,2,Medium,standard,2.71,197.84,Late,1
+W3-00836,6.65,3.08,2,3,Medium,first_class,0.69,40.94,Late,1
+W3-00837,39.59,2.88,5,8,High,second_class,3.92,175.45,Late,3
+W3-00838,15.68,8.0,4,5,Medium,second_class,2.02,169.99,Late,1
+W3-00839,30.89,2.98,6,7,Medium,second_class,2.84,191.73,Late,1
+W3-00840,13.94,7.34,6,6,Medium,first_class,1.32,113.89,On Time,0
+W3-00841,10.43,19.05,7,6,Low,first_class,1.18,172.97,On Time,-1
+W3-00842,16.0,26.82,3,4,Medium,standard,1.72,259.95,Late,1
+W3-00843,30.99,7.43,3,4,Medium,same_day,2.79,203.0,Late,1
+W3-00844,39.63,3.57,6,6,Low,first_class,3.59,217.73,On Time,0
+W3-00845,23.59,4.66,3,4,Low,standard,2.65,131.83,Late,1
+W3-00846,29.98,1.88,2,2,Low,second_class,3.73,146.52,On Time,0
+W3-00847,40.89,9.51,7,9,Low,same_day,3.76,255.1,Late,2
+W3-00848,16.59,4.72,5,5,Low,second_class,1.67,137.14,On Time,0
+W3-00849,19.0,11.89,5,6,Medium,standard,2.34,122.44,Late,1
+W3-00850,37.03,7.16,6,6,Low,first_class,4.82,227.82,On Time,0
+W3-00851,25.29,10.3,3,4,High,first_class,2.56,216.38,Late,1
+W3-00852,19.47,4.05,3,4,Low,first_class,1.96,123.53,Late,1
+W3-00853,26.18,4.89,3,3,Low,first_class,2.29,157.61,On Time,0
+W3-00854,7.53,1.3,3,5,Low,second_class,0.79,47.31,Late,2
+W3-00855,22.22,6.13,4,4,Low,second_class,2.2,108.89,On Time,0
+W3-00856,16.36,6.14,5,6,Medium,second_class,1.65,153.36,Late,1
+W3-00857,34.51,2.71,3,5,Medium,second_class,3.36,177.79,Late,2
+W3-00858,41.5,5.84,4,6,Medium,second_class,3.87,198.39,Late,2
+W3-00859,16.31,4.25,3,4,High,second_class,1.5,161.02,Late,1
+W3-00860,24.85,5.86,2,3,Medium,standard,2.43,148.67,Late,1
+W3-00861,25.36,5.12,7,7,Low,same_day,2.98,199.79,On Time,0
+W3-00862,33.15,8.58,4,6,Low,second_class,4.12,229.71,Late,2
+W3-00863,20.1,7.92,7,7,Medium,standard,1.86,157.77,On Time,0
+W3-00864,28.27,5.89,7,7,Low,first_class,2.88,169.28,On Time,0
+W3-00865,8.95,2.37,6,8,Medium,second_class,1.0,70.72,Late,2
+W3-00866,26.21,15.0,2,2,Medium,same_day,2.75,249.33,On Time,0
+W3-00867,132.72,1.89,2,5,Medium,same_day,12.26,607.69,Late,3
+W3-00868,24.49,6.04,4,6,High,second_class,3.11,155.91,Late,2
+W3-00869,37.58,9.57,6,9,Medium,standard,3.28,259.07,Late,3
+W3-00870,32.22,10.22,7,8,Medium,first_class,3.55,212.52,Late,1
+W3-00871,8.97,3.15,5,7,Medium,first_class,0.91,138.13,Late,2
+W3-00872,38.29,5.27,7,8,Low,standard,3.54,179.84,Late,1
+W3-00873,4.51,7.64,3,3,Medium,standard,0.6,111.01,On Time,0
+W3-00874,6.46,3.01,5,4,Low,first_class,0.84,20.0,On Time,-1
+W3-00875,26.51,3.47,5,6,Low,second_class,2.56,147.58,Late,1
+W3-00876,25.68,3.86,1,3,Medium,second_class,3.2,120.65,Late,2
+W3-00877,24.53,2.94,2,4,High,second_class,3.1,73.87,Late,2
+W3-00878,27.47,1.97,2,1,Low,standard,3.21,134.32,On Time,-1
+W3-00879,96.11,4.85,7,10,Medium,standard,9.25,391.53,Late,3
+W3-00880,40.91,2.84,2,4,Medium,second_class,4.34,264.36,Late,2
+W3-00881,12.39,3.03,4,4,Medium,second_class,1.51,143.03,On Time,0
+W3-00882,23.94,2.96,4,4,Low,first_class,2.13,117.1,On Time,0
+W3-00883,17.49,5.77,2,3,Low,first_class,1.76,71.73,Late,1
+W3-00884,36.81,8.89,1,1,Low,same_day,3.95,233.76,On Time,0
+W3-00885,10.75,8.19,3,4,Medium,standard,1.14,104.78,Late,1
+W3-00886,3.42,13.42,6,6,Low,second_class,0.33,149.36,On Time,0
+W3-00887,78.44,6.67,3,6,Medium,standard,7.67,397.46,Late,3
+W3-00888,38.47,2.62,5,5,Low,standard,4.83,264.84,On Time,0
+W3-00889,10.46,16.71,3,3,Medium,first_class,1.01,220.86,On Time,0
+W3-00890,18.23,6.99,2,3,Medium,second_class,1.92,148.48,Late,1
+W3-00891,27.42,1.83,7,8,Low,standard,2.51,197.32,Late,1
+W3-00892,23.47,3.94,6,7,High,standard,2.5,187.46,Late,1
+W3-00893,64.51,7.92,2,5,Medium,second_class,7.32,390.37,Late,3
+W3-00894,22.31,8.38,5,7,High,second_class,2.3,145.31,Late,2
+W3-00895,6.02,2.93,5,6,High,second_class,0.66,55.33,Late,1
+W3-00896,32.97,1.24,6,8,Medium,same_day,2.92,180.31,Late,2
+W3-00897,11.96,3.9,1,2,Low,second_class,1.25,93.54,Late,1
+W3-00898,11.58,11.24,3,5,High,second_class,1.4,123.68,Late,2
+W3-00899,12.22,7.94,4,6,High,second_class,1.12,189.46,Late,2
+W3-00900,36.94,2.92,2,4,High,standard,3.64,181.62,Late,2
+W3-00901,36.19,3.16,3,5,Medium,second_class,3.22,183.91,Late,2
+W3-00902,11.5,2.98,4,5,Medium,second_class,1.47,135.38,Late,1
+W3-00903,12.39,1.05,1,2,High,standard,1.12,68.47,Late,1
+W3-00904,29.98,1.75,7,7,Medium,standard,2.8,177.3,On Time,0
+W3-00905,23.85,3.96,5,8,Low,standard,2.62,203.7,Late,3
+W3-00906,12.47,4.93,4,3,Medium,standard,1.1,111.25,On Time,-1
+W3-00907,4.4,12.18,6,6,Medium,first_class,0.54,155.75,On Time,0
+W3-00908,3.92,3.2,7,8,High,second_class,0.5,67.53,Late,1
+W3-00909,23.22,6.65,2,4,Low,second_class,2.9,136.83,Late,2
+W3-00910,20.97,2.08,4,5,High,same_day,2.52,186.25,Late,1
+W3-00911,17.89,10.82,7,9,High,same_day,1.92,181.02,Late,2
+W3-00912,3.92,6.25,4,3,Low,standard,0.38,96.25,On Time,-1
+W3-00913,34.56,7.15,3,4,Low,standard,3.39,262.78,Late,1
+W3-00914,20.55,13.32,2,2,Medium,first_class,1.85,193.72,On Time,0
+W3-00915,19.47,16.35,6,7,Low,second_class,1.95,196.02,Late,1
+W3-00916,26.66,3.17,3,4,Medium,second_class,3.28,216.02,Late,1
+W3-00917,25.84,5.22,4,4,Low,same_day,3.1,164.16,On Time,0
+W3-00918,13.72,16.86,1,3,Medium,first_class,1.33,248.26,Late,2
+W3-00919,48.22,5.98,7,7,Low,first_class,5.28,255.33,On Time,0
+W3-00920,38.18,8.87,1,2,High,standard,4.23,187.03,Late,1
+W3-00921,17.89,3.71,7,7,Medium,standard,1.74,119.51,On Time,0
+W3-00922,30.34,8.11,3,5,Medium,second_class,2.75,145.42,Late,2
+W3-00923,13.53,15.71,5,7,Low,second_class,1.3,126.7,Late,2
+W3-00924,22.65,3.72,6,6,High,first_class,2.23,211.55,On Time,0
+W3-00925,49.54,2.0,2,5,Medium,second_class,4.54,277.61,Late,3
+W3-00926,11.97,2.57,6,7,Medium,standard,1.16,89.9,Late,1
+W3-00927,29.35,4.51,2,3,Low,standard,3.76,194.91,Late,1
+W3-00928,17.96,3.85,5,5,Medium,standard,1.86,145.44,On Time,0
+W3-00929,46.1,9.47,5,7,High,same_day,4.84,282.71,Late,2
+W3-00930,37.27,7.57,5,7,Low,second_class,3.86,248.44,Late,2
+W3-00931,17.77,3.91,5,7,Low,second_class,1.57,127.89,Late,2
+W3-00932,38.33,2.51,3,5,Medium,same_day,3.68,231.5,Late,2
+W3-00933,14.24,11.08,1,2,Low,standard,1.5,201.0,Late,1
+W3-00934,25.25,7.61,5,6,Medium,standard,2.34,246.84,Late,1
+W3-00935,4.96,7.05,5,5,Medium,standard,0.65,147.53,On Time,0
+W3-00936,22.47,9.05,7,9,High,second_class,2.14,224.57,Late,2
+W3-00937,23.93,7.9,3,4,Low,standard,2.65,85.83,Late,1
+W3-00938,8.13,13.04,7,6,Low,same_day,0.76,142.28,On Time,-1
+W3-00939,17.7,10.32,3,4,Medium,standard,2.28,193.72,Late,1
+W3-00940,14.54,8.59,6,7,Medium,second_class,1.29,158.12,Late,1
+W3-00941,9.16,8.98,1,1,Low,second_class,0.85,70.28,On Time,0
+W3-00942,3.79,4.94,7,7,Medium,same_day,0.34,128.07,On Time,0
+W3-00943,11.18,3.97,1,2,Low,second_class,1.1,85.22,Late,1
+W3-00944,8.92,4.15,5,5,Medium,same_day,0.8,134.66,On Time,0
+W3-00945,30.38,4.27,4,5,Medium,second_class,3.69,170.12,Late,1
+W3-00946,23.17,3.66,5,5,Low,second_class,2.52,140.43,On Time,0
+W3-00947,25.52,4.21,2,3,Medium,standard,2.7,119.68,Late,1
+W3-00948,13.7,12.23,3,4,High,first_class,1.72,176.12,Late,1
+W3-00949,19.68,7.81,6,7,Medium,first_class,1.92,195.71,Late,1
+W3-00950,42.73,3.65,6,8,Medium,same_day,4.83,219.64,Late,2
+W3-00951,4.4,3.43,6,6,Medium,same_day,0.42,163.85,On Time,0
+W3-00952,28.65,6.18,4,5,Medium,first_class,3.36,192.3,Late,1
+W3-00953,20.97,3.79,6,7,Medium,standard,1.88,189.58,Late,1
+W3-00954,13.23,4.11,4,5,Medium,standard,1.31,129.37,Late,1
+W3-00955,23.51,5.08,6,6,Low,same_day,2.22,201.51,On Time,0
+W3-00956,31.75,2.17,2,5,Medium,standard,3.17,181.0,Late,3
+W3-00957,21.08,4.6,4,6,High,standard,2.73,179.99,Late,2
+W3-00958,15.66,12.45,3,3,Medium,first_class,1.44,178.71,On Time,0
+W3-00959,20.97,4.76,5,6,Low,standard,2.23,138.54,Late,1
+W3-00960,45.52,5.21,6,7,Medium,standard,4.06,232.23,Late,1
+W3-00961,18.81,4.97,1,3,High,same_day,1.96,186.33,Late,2
+W3-00962,7.76,1.36,5,6,Low,standard,0.69,108.4,Late,1
+W3-00963,16.73,7.69,4,5,Medium,standard,1.84,146.39,Late,1
+W3-00964,10.14,5.24,4,4,Low,standard,1.02,162.07,On Time,0
+W3-00965,7.78,4.39,5,3,Low,second_class,0.69,162.18,On Time,-2
+W3-00966,24.75,13.8,7,7,Medium,same_day,2.2,231.62,On Time,0
+W3-00967,44.74,11.49,5,6,Low,standard,4.61,216.99,Late,1
+W3-00968,25.31,7.46,5,6,Low,first_class,2.98,238.11,Late,1
+W3-00969,21.74,2.76,1,2,Low,second_class,2.08,151.36,Late,1
+W3-00970,9.41,13.85,5,4,Low,second_class,1.04,146.75,On Time,-1
+W3-00971,12.76,6.45,1,2,Low,second_class,1.43,166.32,Late,1
+W3-00972,35.11,3.94,3,3,Low,first_class,3.81,142.22,On Time,0
+W3-00973,14.26,9.4,4,5,Low,standard,1.89,148.06,Late,1
+W3-00974,14.33,2.77,2,1,Low,second_class,1.6,142.73,On Time,-1
+W3-00975,23.23,1.11,6,7,Medium,first_class,2.14,163.94,Late,1
+W3-00976,25.77,1.64,2,3,High,standard,2.83,121.25,Late,1
+W3-00977,11.93,6.84,4,5,Medium,second_class,1.29,108.6,Late,1
+W3-00978,19.79,8.0,2,3,Medium,same_day,2.24,174.65,Late,1
+W3-00979,4.87,12.43,7,7,Medium,second_class,0.44,102.88,On Time,0
+W3-00980,37.91,38.17,7,8,Low,second_class,4.51,439.67,Late,1
+W3-00981,12.08,8.01,4,4,Low,second_class,1.25,131.34,On Time,0
+W3-00982,33.33,13.2,7,8,Low,second_class,3.03,257.78,Late,1
+W3-00983,25.76,6.27,3,4,Low,standard,2.55,171.54,Late,1
+W3-00984,6.54,6.65,3,3,Medium,second_class,0.61,100.63,On Time,0
+W3-00985,13.89,3.94,4,5,Medium,standard,1.75,97.96,Late,1
+W3-00986,16.95,2.79,3,4,Low,first_class,2.1,132.86,Late,1
+W3-00987,32.14,7.93,7,9,Medium,second_class,3.38,187.69,Late,2
+W3-00988,26.7,11.06,2,3,Low,standard,2.37,223.72,Late,1
+W3-00989,11.92,6.03,2,2,Low,first_class,1.56,64.05,On Time,0
+W3-00990,7.3,2.99,4,5,Low,standard,0.79,87.72,Late,1
+W3-00991,34.11,6.6,2,3,Low,second_class,3.67,255.16,Late,1
+W3-00992,56.06,6.28,1,2,Low,standard,4.92,319.77,Late,1
+W3-00993,17.02,6.43,6,5,Low,second_class,1.94,99.77,On Time,-1
+W3-00994,15.06,4.78,4,5,Medium,first_class,1.36,133.08,Late,1
+W3-00995,16.57,11.96,2,3,High,second_class,1.53,166.91,Late,1
+W3-00996,12.59,10.91,3,5,High,first_class,1.39,120.47,Late,2
+W3-00997,51.5,11.21,1,5,High,second_class,4.49,321.27,Late,4
+W3-00998,13.76,7.74,4,5,High,second_class,1.46,76.72,Late,1
+W3-00999,10.92,4.81,4,5,Low,standard,1.19,75.04,Late,1
+W3-01000,37.31,8.85,7,9,High,second_class,3.63,206.2,Late,2
+W3-01001,7.31,3.06,3,4,Low,second_class,0.74,75.45,Late,1
+W3-01002,15.62,4.25,6,6,Medium,second_class,1.38,100.61,On Time,0
+W3-01003,12.16,16.77,2,3,Low,standard,1.09,264.07,Late,1
+W3-01004,25.23,5.32,3,4,Medium,first_class,2.58,114.34,Late,1
+W3-01005,11.08,3.41,4,4,High,standard,1.48,71.76,On Time,0
+W3-01006,14.02,5.24,4,8,High,standard,1.63,171.77,Late,4
+W3-01007,5.88,8.25,3,4,Medium,standard,0.64,94.39,Late,1
+W3-01008,27.82,1.95,7,7,Medium,same_day,3.09,147.72,On Time,0
+W3-01009,24.3,5.37,7,10,High,second_class,2.17,169.13,Late,3
+W3-01010,21.92,9.37,2,4,Medium,second_class,2.86,153.51,Late,2
+W3-01011,17.58,4.96,2,3,Medium,standard,1.59,159.6,Late,1
+W3-01012,19.38,11.67,3,5,Medium,standard,2.21,193.37,Late,2
+W3-01013,31.64,6.24,6,7,Medium,second_class,3.39,186.77,Late,1
+W3-01014,23.63,5.75,1,1,Medium,first_class,2.42,132.63,On Time,0
+W3-01015,31.68,2.78,6,8,Medium,same_day,2.76,151.09,Late,2
+W3-01016,19.01,5.11,7,9,Medium,standard,1.98,180.37,Late,2
+W3-01017,11.96,7.01,5,7,Medium,first_class,1.12,146.22,Late,2
+W3-01018,41.63,2.96,2,4,Medium,second_class,3.79,210.89,Late,2
+W3-01019,11.21,6.94,6,7,Medium,standard,0.99,104.02,Late,1
+W3-01020,5.62,3.15,5,5,High,second_class,0.67,24.17,On Time,0
+W3-01021,6.97,4.61,6,7,Medium,second_class,0.65,128.42,Late,1
+W3-01022,17.71,1.88,2,4,High,standard,1.7,134.79,Late,2
+W3-01023,37.2,4.12,3,3,Low,same_day,3.55,161.45,On Time,0
+W3-01024,27.93,8.26,7,8,Medium,standard,2.59,196.12,Late,1
+W3-01025,34.19,3.72,3,5,Medium,same_day,3.81,224.59,Late,2
+W3-01026,45.58,3.76,2,6,High,second_class,4.79,215.7,Late,4
+W3-01027,17.76,8.05,4,3,Low,first_class,1.65,118.03,On Time,-1
+W3-01028,11.65,1.18,4,5,Medium,same_day,1.55,75.46,Late,1
+W3-01029,31.64,4.04,6,8,Medium,standard,3.39,219.61,Late,2
+W3-01030,59.99,1.13,4,6,High,second_class,7.72,231.62,Late,2
+W3-01031,53.56,7.06,1,3,High,second_class,5.62,355.18,Late,2
+W3-01032,12.99,3.86,5,7,High,standard,1.32,70.11,Late,2
+W3-01033,15.51,6.69,6,7,Low,second_class,1.61,119.37,Late,1
+W3-01034,75.17,3.13,2,5,High,standard,7.19,365.01,Late,3
+W3-01035,72.14,10.55,6,9,Medium,second_class,7.83,376.16,Late,3
+W3-01036,17.61,8.64,4,4,Low,second_class,2.18,190.92,On Time,0
+W3-01037,25.96,12.08,7,9,Medium,second_class,2.66,262.52,Late,2
+W3-01038,17.21,2.22,3,4,Low,second_class,1.55,114.72,Late,1
+W3-01039,4.37,10.55,3,3,Low,standard,0.42,126.08,On Time,0
+W3-01040,15.94,4.17,5,6,Medium,first_class,1.7,95.28,Late,1
+W3-01041,23.6,2.25,1,3,Low,second_class,2.28,138.14,Late,2
+W3-01042,8.42,2.56,4,4,Medium,first_class,1.09,78.83,On Time,0
+W3-01043,24.62,2.13,3,4,Medium,standard,2.71,154.67,Late,1
+W3-01044,6.82,9.72,2,4,High,standard,0.77,110.39,Late,2
+W3-01045,45.38,7.16,2,4,Medium,standard,6.03,271.05,Late,2
+W3-01046,11.71,6.95,4,6,Medium,second_class,1.22,101.94,Late,2
+W3-01047,25.18,0.74,7,8,Medium,second_class,2.63,139.52,Late,1
+W3-01048,11.18,6.72,5,8,High,first_class,1.31,125.27,Late,3
+W3-01049,5.73,7.9,2,3,High,standard,0.73,106.94,Late,1
+W3-01050,6.34,9.42,1,2,Low,second_class,0.56,37.42,Late,1
+W3-01051,12.05,6.57,7,9,High,standard,1.22,118.23,Late,2
+W3-01052,15.19,14.4,6,8,Medium,second_class,1.61,251.69,Late,2
+W3-01053,19.86,6.9,5,5,Medium,same_day,2.08,180.23,On Time,0
+W3-01054,25.06,4.37,4,6,Medium,same_day,2.59,221.88,Late,2
+W3-01055,29.28,1.99,4,4,Low,same_day,2.95,158.03,On Time,0
+W3-01056,33.93,15.9,6,7,Low,standard,3.68,316.37,Late,1
+W3-01057,36.98,10.7,5,6,Low,standard,4.3,292.01,Late,1
+W3-01058,2.37,3.81,6,7,High,standard,0.22,56.47,Late,1
+W3-01059,17.61,8.92,1,2,Low,standard,1.61,94.46,Late,1
+W3-01060,41.56,9.39,7,9,Medium,standard,4.0,262.29,Late,2
+W3-01061,13.5,2.54,5,7,Low,second_class,1.74,102.95,Late,2
+W3-01062,14.8,14.89,4,5,High,standard,1.29,111.95,Late,1
+W3-01063,31.05,7.02,1,3,High,standard,3.48,237.94,Late,2
+W3-01064,11.6,15.02,4,5,Low,second_class,1.07,164.18,Late,1
+W3-01065,17.58,9.99,4,5,Low,second_class,1.68,118.99,Late,1
+W3-01066,30.93,0.96,5,6,High,same_day,3.01,119.48,Late,1
+W3-01067,28.48,5.78,3,3,Medium,same_day,3.08,116.06,On Time,0
+W3-01068,78.75,0.76,6,8,Medium,second_class,8.12,382.28,Late,2
+W3-01069,12.44,3.51,4,5,Low,second_class,1.27,81.62,Late,1
+W3-01070,11.25,3.7,4,5,Low,standard,1.2,47.29,Late,1
+W3-01071,15.23,3.99,5,5,Low,standard,1.48,78.08,On Time,0
+W3-01072,17.13,6.06,2,3,High,second_class,1.82,70.09,Late,1
+W3-01073,43.75,5.21,5,7,Low,first_class,4.93,173.46,Late,2
+W3-01074,17.77,12.15,4,5,Medium,second_class,1.76,149.93,Late,1
+W3-01075,16.63,9.09,6,6,Low,standard,1.63,170.32,On Time,0
+W3-01076,27.46,4.33,2,5,Medium,first_class,3.36,209.0,Late,3
+W3-01077,23.57,1.95,5,7,Medium,second_class,2.83,129.85,Late,2
+W3-01078,13.4,3.54,2,2,Medium,second_class,1.57,118.6,On Time,0
+W3-01079,13.05,2.04,2,4,High,second_class,1.26,188.21,Late,2
+W3-01080,23.48,2.09,2,3,Medium,second_class,2.17,202.17,Late,1
+W3-01081,42.05,7.18,6,8,Medium,second_class,4.58,206.81,Late,2
+W3-01082,12.78,18.83,7,7,Medium,standard,1.63,199.31,On Time,0
+W3-01083,11.15,1.31,4,3,Low,standard,1.04,48.33,On Time,-1
+W3-01084,49.64,8.75,6,8,Low,first_class,4.87,391.49,Late,2
+W3-01085,7.41,5.83,3,5,Medium,standard,0.71,71.0,Late,2
+W3-01086,74.97,3.09,7,10,Medium,second_class,6.53,456.58,Late,3
+W3-01087,22.21,13.74,1,3,High,second_class,2.08,173.04,Late,2
+W3-01088,11.26,4.96,3,4,Medium,second_class,1.15,86.18,Late,1
+W3-01089,8.75,3.16,4,6,Medium,standard,0.87,99.8,Late,2
+W3-01090,6.2,14.13,5,6,Medium,standard,0.78,128.94,Late,1
+W3-01091,18.49,6.82,7,8,Medium,second_class,2.3,140.28,Late,1
+W3-01092,25.28,3.41,5,7,Medium,second_class,2.48,141.17,Late,2
+W3-01093,31.75,14.09,6,7,Medium,same_day,3.47,268.9,Late,1
+W3-01094,37.84,8.41,6,6,Low,standard,3.68,214.42,On Time,0
+W3-01095,6.3,2.71,3,4,Medium,standard,0.56,67.39,Late,1
+W3-01096,9.7,4.39,3,3,Medium,same_day,1.25,122.71,On Time,0
+W3-01097,22.3,6.7,5,5,High,same_day,2.76,177.2,On Time,0
+W3-01098,62.91,5.06,2,4,Medium,same_day,5.63,299.95,Late,2
+W3-01099,25.93,4.62,6,7,Medium,second_class,2.42,238.7,Late,1
+W3-01100,17.37,19.09,6,6,Low,first_class,1.83,249.66,On Time,0
+W3-01101,17.94,10.59,3,4,Medium,standard,1.88,155.47,Late,1
+W3-01102,11.76,7.9,7,9,High,standard,1.37,124.91,Late,2
+W3-01103,28.73,5.12,6,9,High,second_class,3.83,196.68,Late,3
+W3-01104,16.79,1.09,7,8,Medium,second_class,1.62,116.41,Late,1
+W3-01105,37.86,6.26,6,7,Low,standard,4.69,265.56,Late,1
+W3-01106,17.87,3.99,7,9,Medium,standard,1.62,179.71,Late,2
+W3-01107,7.28,3.17,1,3,High,first_class,0.86,100.65,Late,2
+W3-01108,5.54,3.98,5,4,Low,same_day,0.58,46.44,On Time,-1
+W3-01109,16.28,2.55,4,6,Medium,second_class,1.49,103.53,Late,2
+W3-01110,15.62,11.91,1,3,Medium,standard,1.91,184.43,Late,2
+W3-01111,9.75,9.13,6,6,Low,same_day,1.01,109.42,On Time,0
+W3-01112,17.1,0.99,6,5,Medium,first_class,2.01,155.6,On Time,-1
+W3-01113,24.46,2.67,1,3,Medium,second_class,2.33,206.36,Late,2
+W3-01114,12.16,3.5,4,6,High,second_class,1.55,102.36,Late,2
+W3-01115,8.96,8.27,2,2,Low,first_class,0.79,122.63,On Time,0
+W3-01116,8.22,3.2,3,5,High,same_day,0.9,59.4,Late,2
+W3-01117,24.23,6.84,7,8,Medium,standard,2.38,203.41,Late,1
+W3-01118,21.53,0.87,4,6,Medium,second_class,2.37,95.39,Late,2
+W3-01119,10.56,2.04,2,2,Low,standard,0.92,88.84,On Time,0
+W3-01120,32.39,4.23,1,3,Low,first_class,3.11,178.73,Late,2
+W3-01121,22.78,4.96,6,6,Medium,standard,2.08,214.52,On Time,0
+W3-01122,6.78,8.94,2,3,Medium,standard,0.64,99.63,Late,1
+W3-01123,35.99,5.16,3,4,Medium,second_class,3.28,214.24,Late,1
+W3-01124,6.78,5.79,3,4,High,standard,0.77,119.6,Late,1
+W3-01125,12.35,2.77,5,5,Low,standard,1.57,111.12,On Time,0
+W3-01126,37.38,4.94,3,5,Low,second_class,4.89,195.88,Late,2
+W3-01127,9.67,2.76,7,9,High,second_class,0.94,130.68,Late,2
+W3-01128,28.01,17.48,2,4,Medium,standard,3.53,279.94,Late,2
+W3-01129,69.31,3.33,5,7,Low,standard,7.15,363.33,Late,2
+W3-01130,19.58,4.38,5,6,Medium,standard,2.09,134.84,Late,1
+W3-01131,39.23,7.32,2,4,Low,second_class,5.22,247.01,Late,2
+W3-01132,7.55,11.41,1,1,Low,second_class,0.76,152.1,On Time,0
+W3-01133,18.58,4.49,4,4,Low,first_class,1.88,113.49,On Time,0
+W3-01134,21.42,10.51,4,4,Medium,first_class,2.31,179.08,On Time,0
+W3-01135,11.19,4.45,3,4,Medium,standard,1.1,77.68,Late,1
+W3-01136,17.01,3.77,3,2,Low,second_class,2.14,132.39,On Time,-1
+W3-01137,34.43,3.44,6,5,Low,same_day,3.25,178.89,On Time,-1
+W3-01138,69.35,4.95,5,7,Medium,first_class,6.66,302.91,Late,2
+W3-01139,28.41,2.57,3,4,Medium,standard,2.56,221.78,Late,1
+W3-01140,31.97,3.11,6,7,Medium,standard,3.52,172.52,Late,1
+W3-01141,29.49,4.22,2,3,Medium,same_day,2.82,205.03,Late,1
+W3-01142,17.02,3.49,1,1,High,second_class,1.85,138.79,On Time,0
+W3-01143,16.3,4.33,4,4,Low,standard,2.16,150.41,On Time,0
+W3-01144,33.15,4.47,6,7,Low,second_class,3.46,121.13,Late,1
+W3-01145,51.95,5.23,1,1,Low,same_day,5.09,305.07,On Time,0
+W3-01146,26.42,13.07,5,6,High,standard,2.86,189.69,Late,1
+W3-01147,28.49,16.71,6,7,Medium,second_class,3.22,251.87,Late,1
+W3-01148,7.4,9.39,2,2,Medium,first_class,0.89,69.19,On Time,0
+W3-01149,5.05,1.62,1,2,High,second_class,0.45,35.69,Late,1
+W3-01150,74.16,5.11,4,6,Low,first_class,8.51,362.9,Late,2
+W3-01151,23.65,13.45,7,7,Low,first_class,2.68,249.09,On Time,0
+W3-01152,16.74,19.81,5,6,High,second_class,2.23,172.59,Late,1
+W3-01153,22.98,1.37,6,8,Medium,first_class,2.81,174.3,Late,2
+W3-01154,14.24,3.29,1,3,Medium,standard,1.8,119.41,Late,2
+W3-01155,32.12,9.48,5,5,Low,first_class,3.2,233.86,On Time,0
+W3-01156,9.51,7.41,5,5,Low,second_class,0.93,131.49,On Time,0
+W3-01157,38.98,4.73,5,7,Medium,first_class,4.17,245.88,Late,2
+W3-01158,43.56,26.68,5,8,Medium,standard,3.8,358.38,Late,3
+W3-01159,19.04,4.11,6,6,Medium,standard,1.86,125.51,On Time,0
+W3-01160,24.53,13.97,5,5,Medium,standard,2.69,183.62,On Time,0
+W3-01161,31.07,4.48,1,3,Medium,second_class,2.76,195.79,Late,2
+W3-01162,31.25,4.21,5,5,Low,standard,3.04,205.26,On Time,0
+W3-01163,34.45,2.46,2,3,High,first_class,4.11,232.81,Late,1
+W3-01164,44.88,1.61,3,4,Medium,standard,3.98,202.91,Late,1
+W3-01165,29.23,7.88,3,4,Low,second_class,2.64,203.84,Late,1
+W3-01166,20.6,4.21,6,7,Medium,standard,2.64,140.85,Late,1
+W3-01167,26.78,7.33,1,4,High,second_class,2.52,166.36,Late,3
+W3-01168,12.48,10.63,2,4,Medium,standard,1.1,201.06,Late,2
+W3-01169,4.0,5.27,4,5,Low,second_class,0.49,143.7,Late,1
+W3-01170,29.49,5.48,3,5,Medium,same_day,2.74,192.21,Late,2
+W3-01171,21.53,4.42,7,8,Low,second_class,2.36,102.71,Late,1
+W3-01172,38.43,11.26,6,6,Low,first_class,3.64,284.43,On Time,0
+W3-01173,21.23,2.24,2,3,Low,second_class,2.74,163.56,Late,1
+W3-01174,11.42,0.76,7,9,Medium,second_class,1.02,102.97,Late,2
+W3-01175,48.69,4.51,7,7,Medium,second_class,4.33,146.89,On Time,0
+W3-01176,24.54,5.04,4,6,Medium,second_class,2.8,190.5,Late,2
+W3-01177,24.52,6.59,2,4,High,standard,2.85,187.4,Late,2
+W3-01178,16.97,5.98,2,3,Low,same_day,2.1,127.06,Late,1
+W3-01179,22.74,6.66,1,1,Low,standard,2.42,241.98,On Time,0
+W3-01180,38.76,8.82,5,7,High,standard,4.29,183.9,Late,2
+W3-01181,28.65,11.42,4,7,Medium,second_class,2.77,212.14,Late,3
+W3-01182,6.02,3.41,3,4,Medium,first_class,0.71,77.96,Late,1
+W3-01183,34.03,10.09,7,9,Low,second_class,3.39,200.0,Late,2
+W3-01184,28.85,8.28,7,8,Low,standard,2.63,186.25,Late,1
+W3-01185,16.61,3.86,6,7,Low,standard,1.89,115.97,Late,1
+W3-01186,95.9,4.07,6,9,Low,standard,9.8,447.7,Late,3
+W3-01187,16.89,4.18,7,7,Low,first_class,1.66,95.21,On Time,0
+W3-01188,49.15,5.1,3,4,Low,same_day,5.38,312.93,Late,1
+W3-01189,49.89,4.26,1,3,High,standard,4.95,269.37,Late,2
+W3-01190,26.2,5.95,1,1,Medium,same_day,2.56,208.56,On Time,0
+W3-01191,11.04,3.17,2,2,Low,first_class,0.97,109.48,On Time,0
+W3-01192,9.09,10.57,7,7,Medium,standard,0.88,90.0,On Time,0
+W3-01193,37.84,3.82,6,8,Medium,standard,3.56,162.44,Late,2
+W3-01194,14.93,2.2,2,5,High,second_class,1.7,103.95,Late,3
+W3-01195,35.39,11.93,4,5,Low,standard,3.62,199.44,Late,1
+W3-01196,22.82,9.05,7,8,Medium,second_class,2.7,163.21,Late,1
+W3-01197,15.37,2.32,2,2,Low,second_class,1.49,102.53,On Time,0
+W3-01198,36.39,12.46,6,7,High,first_class,3.72,268.55,Late,1
+W3-01199,17.2,4.88,2,3,Medium,first_class,2.09,225.58,Late,1
+W3-01200,4.46,8.9,6,6,Medium,first_class,0.41,102.98,On Time,0
